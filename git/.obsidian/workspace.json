@@ -21,14 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitledtest/hello git.md",
+                "file": "git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ff7bbe9c0e6f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new one/new content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05934da3aa01ad7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testnewone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitledtest/hello git.md",
+                "file": "testnewone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitledtest/hello git.md",
+                "file": "testnewone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitledtest/hello git.md"
+                "file": "testnewone.md"
               }
             }
           }
@@ -155,9 +179,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df62b80002793a92",
+  "active": "05934da3aa01ad7d",
   "lastOpenFiles": [
+    "new one/new content.md",
+    "testnewone.md",
     "git.md",
+    "new one",
     "Untitledtest/hello git.md",
     "Untitledtest",
     "test",
