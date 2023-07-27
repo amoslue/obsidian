@@ -11,8 +11,12 @@
             "id": "e23c9b97e83c5582",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "乐理/调式.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "乐理/调式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "乐理/调式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "乐理/调式.md"
+              }
             }
           }
         ]
@@ -143,41 +151,50 @@
   },
   "active": "e23c9b97e83c5582",
   "lastOpenFiles": [
-    "Readwise/Articles/The Meticulous, Ruthless Preparations for a Second Trump Term.md",
-    "Readwise/Articles/NATO’s Promises to Ukraine Mark Real Progress.md",
-    "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
-    "Readwise/Articles/As NATO’s Leaders Gather in Vilnius, Ukraine Will Dominate Everything.md",
-    "daily/2023-07-27.md",
-    "Readwise/Articles/使用PriorityQueue实现大顶堆.md",
-    "Readwise/Articles/What if China and India Became Friends.md",
-    "Readwise/Articles/China’s Communist Party Is Tightening Its Grip in Businesses.md",
-    "Readwise/Articles/The Meaning of Prigozhin’s Short-Lived Mutiny.md",
-    "Readwise/Articles/What Would Europe Do if Trump Won.md",
-    "Readwise/Articles/NATO Is Drafting New Plans to Defend Europe.md",
-    "Readwise/Articles",
-    "Readwise",
-    "weread/JavaScript高级程序设计（第3版）/JavaScript高级程序设计（第3版）.md",
-    "weread/JavaScript高级程序设计（第3版）",
-    "weread/Stoner/Stoner.md",
-    "weread/Stoner",
-    "weread/茫茫黑夜漫游/茫茫黑夜漫游.md",
-    "weread/茫茫黑夜漫游",
-    "weread/Augustus/Augustus.md",
-    "weread/Augustus",
-    "weread/伟大的博弈/伟大的博弈.md",
-    "weread/伟大的博弈",
-    "weread/明日传奇/明日传奇.md",
-    "weread/明日传奇",
-    "weread/从一到无穷大/从一到无穷大.md",
-    "weread/从一到无穷大",
-    "weread/屠夫十字镇/屠夫十字镇.md",
-    "weread/屠夫十字镇",
-    "weread/Butcher's Crossing/Butchers Crossing.md",
-    "weread/寂寞的游戏/寂寞的游戏.md",
-    "weread/囚徒健身：用失传的技艺练就强大的生存实力/囚徒健身：用失传的技艺练就强大的生存实力.md",
-    "weread/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）.md",
-    "weread/置身事内：中国政府与经济发展/置身事内：中国政府与经济发展.md",
-    "weread/大教堂与集市（开源运动的《圣经》，中文版首次出版）/大教堂与集市（开源运动的《圣经》，中文版首次出版）.md",
-    "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md"
+    "attachment/Untitled.png",
+    "乐理/Untitled.png",
+    "attachment/Pasted image 20230727132932.png",
+    "乐理/调式.md",
+    "attachment",
+    "notion/notion/music/Untitled.png",
+    "Pasted image 20230727132303.png",
+    "notion/notion/literary/quote/Untitled 1.png",
+    "notion/notion/music/Untitled 1.png",
+    "notion/notion/music/Untitled 2.png",
+    "notion/notion/music/其他.md",
+    "notion/notion/music/乐理.md",
+    "notion/notion/literary/读书.md",
+    "乐理",
+    "notion/notion/literary/知识.md",
+    "notion/notion/literary/玩梗.md",
+    "notion/notion/literary/quote.md",
+    "notion/notion/literary/Untitled.png",
+    "notion/notion/literary/知识/Untitled.png",
+    "notion/notion/literary/poem.md",
+    "quote",
+    "notion/notion/备忘录/实验/报告.md",
+    "notion/notion/备忘录/实验/报告",
+    "notion/notion/备忘录/TCD/抵达当日",
+    "notion/notion/备忘录/TCD/签证.md",
+    "notion/notion/备忘录/TCD/抵达当日.md",
+    "notion/notion/备忘录/TCD/学业安排.md",
+    "notion/notion/备忘录/TCD/学业安排",
+    "notion/notion/备忘录/TCD/ISD IRP",
+    "notion/notion/备忘录/TCD/ISD IRP.md",
+    "notion/notion/技术资料/vim.md",
+    "notion/notion/技术资料/vim",
+    "notion/notion/技术资料/rust.md",
+    "notion/notion/技术资料/interview.md",
+    "notion/notion/技术资料/interview",
+    "notion/notion/技术资料/OS笔记.md",
+    "notion/notion/技术资料/OS笔记",
+    "notion/notion/技术资料/Linux.md",
+    "notion/notion/备忘录/实验.md",
+    "notion/notion/备忘录/passwords.md",
+    "notion/notion/备忘录/metamask.md",
+    "notion/notion/备忘录/jokes.md",
+    "notion/notion/备忘录/TCD.md",
+    "notion/notion/Tweets/🥹按头疯狂安利一个免费的英文（多语言）学习网站（https t co 6uB8FEyu1O）！是Mo.md",
+    "notion/notion/Tweets/🔥🚀发现一款好用的插件：GPT-EZ for ChatGPT！.md"
   ]
 }
