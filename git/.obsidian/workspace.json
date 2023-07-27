@@ -11,12 +11,8 @@
             "id": "e23c9b97e83c5582",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weread/不识字的人/不识字的人.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weread/不识字的人/不识字的人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weread/不识字的人/不识字的人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weread/不识字的人/不识字的人.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,19 +137,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "notion-like-tables:Create new loom": false
     }
   },
   "active": "e23c9b97e83c5582",
   "lastOpenFiles": [
-    "weread/Augustus/Augustus.md",
-    "weread/Stoner/Stoner.md",
-    "2023-07-27.md",
+    "Readwise/Articles/The Meticulous, Ruthless Preparations for a Second Trump Term.md",
+    "Readwise/Articles/NATO’s Promises to Ukraine Mark Real Progress.md",
+    "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
+    "Readwise/Articles/As NATO’s Leaders Gather in Vilnius, Ukraine Will Dominate Everything.md",
+    "daily/2023-07-27.md",
+    "Readwise/Articles/使用PriorityQueue实现大顶堆.md",
+    "Readwise/Articles/What if China and India Became Friends.md",
+    "Readwise/Articles/China’s Communist Party Is Tightening Its Grip in Businesses.md",
+    "Readwise/Articles/The Meaning of Prigozhin’s Short-Lived Mutiny.md",
+    "Readwise/Articles/What Would Europe Do if Trump Won.md",
+    "Readwise/Articles/NATO Is Drafting New Plans to Defend Europe.md",
+    "Readwise/Articles",
+    "Readwise",
     "weread/JavaScript高级程序设计（第3版）/JavaScript高级程序设计（第3版）.md",
     "weread/JavaScript高级程序设计（第3版）",
+    "weread/Stoner/Stoner.md",
     "weread/Stoner",
     "weread/茫茫黑夜漫游/茫茫黑夜漫游.md",
     "weread/茫茫黑夜漫游",
+    "weread/Augustus/Augustus.md",
     "weread/Augustus",
     "weread/伟大的博弈/伟大的博弈.md",
     "weread/伟大的博弈",
@@ -168,23 +173,11 @@
     "weread/屠夫十字镇/屠夫十字镇.md",
     "weread/屠夫十字镇",
     "weread/Butcher's Crossing/Butchers Crossing.md",
-    "weread/Butcher's Crossing",
     "weread/寂寞的游戏/寂寞的游戏.md",
-    "weread/寂寞的游戏",
     "weread/囚徒健身：用失传的技艺练就强大的生存实力/囚徒健身：用失传的技艺练就强大的生存实力.md",
     "weread/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）.md",
     "weread/置身事内：中国政府与经济发展/置身事内：中国政府与经济发展.md",
     "weread/大教堂与集市（开源运动的《圣经》，中文版首次出版）/大教堂与集市（开源运动的《圣经》，中文版首次出版）.md",
-    "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md",
-    "weread/夜晚的潜水艇（陈春成首部小说集 收获文学排行榜入选作品 阿乙、贾行家、史航 推荐 理想国出品）/夜晚的潜水艇（陈春成首部小说集 收获文学排行榜入选作品 阿乙、贾行家、史航 推荐 理想国出品）.md",
-    "weread/樱桃的滋味：阿巴斯谈电影/樱桃的滋味：阿巴斯谈电影.md",
-    "weread/哈德良回忆录/哈德良回忆录.md",
-    "weread/世上最美的溺水者（加西亚·马尔克斯作品 15）/世上最美的溺水者（加西亚·马尔克斯作品 15）.md",
-    "weread/王小波：我的阴阳两界（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十一周年精装纪念版！自我对话式风格小说！）/王小波：我的阴阳两界（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十一周年精装纪念版！自我对话式风格小说！）.md",
-    "weread/不识字的人/不识字的人.md",
-    "weread/王小波：革命时期的爱情（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十周年精装纪念版！）/王小波：革命时期的爱情（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十周年精装纪念版！）.md",
-    "weread/2020年德语专业八级核心词汇全突破/2020年德语专业八级核心词汇全突破.md",
-    "weread/富恩特斯作品：最明净的地区/富恩特斯作品：最明净的地区.md",
-    "weread/无限可能：快速唤醒你的学习脑/无限可能：快速唤醒你的学习脑.md"
+    "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md"
   ]
 }
