@@ -14,45 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "df62b80002793a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77ff7bbe9c0e6f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new one/new content.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05934da3aa01ad7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testnewone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testnewone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testnewone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,16 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testnewone.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05934da3aa01ad7d",
+  "active": "e23c9b97e83c5582",
   "lastOpenFiles": [
-    "new one/new content.md",
     "testnewone.md",
+    "new one/new content.md",
     "git.md",
     "new one",
     "Untitledtest/hello git.md",
