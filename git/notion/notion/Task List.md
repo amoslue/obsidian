@@ -1,5 +1,0 @@
-|Name|Date Created|Status|
-|---|---|---|
-|leetcode|"December 25, 2022 10:22 AM"|To Do|
-|Take Fig on a walk|"October 25, 2021 7:38 PM"|Doing|
-|,"October 25, 2021 7:38 PM"||

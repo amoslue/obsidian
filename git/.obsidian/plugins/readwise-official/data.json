@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9725359,
-  "currentSyncStatusID": 9731373,
+  "lastSavedStatusID": 9731373,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -20,6 +20,17 @@
     "30289023",
     "30458106"
   ],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "Readwise/Articles/NATO Is Drafting New Plans to Defend Europe.md": "29696666",
+    "Readwise/Articles/China’s Communist Party Is Tightening Its Grip in Businesses.md": "29896711",
+    "Readwise/Articles/As NATO’s Leaders Gather in Vilnius, Ukraine Will Dominate Everything.md": "29953989",
+    "Readwise/Articles/What Would Europe Do if Trump Won.md": "29999339",
+    "Readwise/Articles/The Meaning of Prigozhin’s Short-Lived Mutiny.md": "29436449",
+    "Readwise/Articles/NATO’s Promises to Ukraine Mark Real Progress.md": "30036544",
+    "Readwise/Articles/Why Cape Town Beats Johannesburg.md": "30036664",
+    "Readwise/Articles/The Meticulous, Ruthless Preparations for a Second Trump Term.md": "30085469",
+    "Readwise/Articles/What if China and India Became Friends.md": "30289023",
+    "Readwise/Articles/使用PriorityQueue实现大顶堆.md": "30458106"
+  },
   "reimportShowConfirmation": true
 }

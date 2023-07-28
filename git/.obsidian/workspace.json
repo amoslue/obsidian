@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "161e157f9bf64cff",
+        "id": "7bf7e14b178e2913",
         "type": "tabs",
         "children": [
           {
-            "id": "e23c9b97e83c5582",
+            "id": "295ca4d8a433a2c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "乐理/调式.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "乐理/调式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "乐理/调式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "乐理/调式.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,52 +141,53 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "e23c9b97e83c5582",
+  "active": "295ca4d8a433a2c3",
   "lastOpenFiles": [
-    "attachment/Untitled.png",
-    "乐理/Untitled.png",
-    "attachment/Pasted image 20230727132932.png",
-    "乐理/调式.md",
-    "attachment",
-    "notion/notion/music/Untitled.png",
-    "Pasted image 20230727132303.png",
-    "notion/notion/literary/quote/Untitled 1.png",
-    "notion/notion/music/Untitled 1.png",
-    "notion/notion/music/Untitled 2.png",
-    "notion/notion/music/其他.md",
-    "notion/notion/music/乐理.md",
+    "weread/经济学的思维方式（原书第13版）/经济学的思维方式（原书第13版）.md",
+    "技术笔记/vim.md",
+    "attachment/Pasted image 20230728003333.png",
+    "attachment/Pasted image 20230728003318.png",
+    "vim/Untitled 2.png.md",
+    "vim",
+    "技术笔记/Linux.md",
+    "Linux/Untitled.png.md",
+    "Linux",
+    "notion/notion/技术资料.md",
+    "notion/notion/备忘录.md",
+    "notion/notion/Tweets.md",
+    "notion/notion/music.md",
+    "notion/notion/Task List.md",
+    "notion/notion/literary.md",
+    "notion/notion/econ.md",
+    "技术笔记",
+    "notion/notion/技术资料/rust.md",
+    "notion/notion/技术资料/OS笔记.md",
+    "notion/notion/技术资料/Linux/Untitled 4.png",
+    "notion/notion/技术资料/Linux/Untitled 3.png",
+    "notion/notion/技术资料/Linux/Untitled 2.png",
+    "notion/notion/技术资料/Linux/Untitled 1.png",
+    "notion/notion/技术资料/Linux/Untitled.png",
+    "notion/notion/备忘录/实验.md",
+    "notion/notion/备忘录/TCD.md",
+    "notion/notion/备忘录/passwords.md",
+    "notion/notion/备忘录/jokes.md",
+    "notion/notion/备忘录/metamask.md",
+    "notion/notion/备忘录/passwords/Untitled.png",
+    "notion/notion/备忘录/jokes/Untitled 2.png",
+    "notion/notion/备忘录/jokes/Untitled 1.png",
+    "notion/notion/Task List/New Task.md",
+    "notion/notion/Task List/leetcode.md",
+    "quote/quote.md",
     "notion/notion/literary/读书.md",
-    "乐理",
     "notion/notion/literary/知识.md",
     "notion/notion/literary/玩梗.md",
-    "notion/notion/literary/quote.md",
-    "notion/notion/literary/Untitled.png",
-    "notion/notion/literary/知识/Untitled.png",
-    "notion/notion/literary/poem.md",
+    "quote/punchline.md",
+    "Readwise/Articles",
+    "Readwise",
+    "attachment",
+    "乐理",
     "quote",
-    "notion/notion/备忘录/实验/报告.md",
     "notion/notion/备忘录/实验/报告",
-    "notion/notion/备忘录/TCD/抵达当日",
-    "notion/notion/备忘录/TCD/签证.md",
-    "notion/notion/备忘录/TCD/抵达当日.md",
-    "notion/notion/备忘录/TCD/学业安排.md",
-    "notion/notion/备忘录/TCD/学业安排",
-    "notion/notion/备忘录/TCD/ISD IRP",
-    "notion/notion/备忘录/TCD/ISD IRP.md",
-    "notion/notion/技术资料/vim.md",
-    "notion/notion/技术资料/vim",
-    "notion/notion/技术资料/rust.md",
-    "notion/notion/技术资料/interview.md",
-    "notion/notion/技术资料/interview",
-    "notion/notion/技术资料/OS笔记.md",
-    "notion/notion/技术资料/OS笔记",
-    "notion/notion/技术资料/Linux.md",
-    "notion/notion/备忘录/实验.md",
-    "notion/notion/备忘录/passwords.md",
-    "notion/notion/备忘录/metamask.md",
-    "notion/notion/备忘录/jokes.md",
-    "notion/notion/备忘录/TCD.md",
-    "notion/notion/Tweets/🥹按头疯狂安利一个免费的英文（多语言）学习网站（https t co 6uB8FEyu1O）！是Mo.md",
-    "notion/notion/Tweets/🔥🚀发现一款好用的插件：GPT-EZ for ChatGPT！.md"
+    "notion/notion/备忘录/TCD/抵达当日"
   ]
 }
