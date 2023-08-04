@@ -11,8 +11,12 @@
             "id": "295ca4d8a433a2c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-08-05.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-08-05.md"
+              }
             }
           }
         ]
@@ -143,51 +151,51 @@
   },
   "active": "295ca4d8a433a2c3",
   "lastOpenFiles": [
+    "attachment/Pasted image 20230805013432.png",
+    "Linux/命令行.md",
+    "daily/2023-08-05.md",
+    "daily/2023-07-28.md",
+    "daily/2023-07-31.md",
+    "2023-07-31.md",
+    "Readwise/Articles/Could Economic Indicators Signal China’s Intent to Go to War.md",
+    "Readwise/Articles/China’s Communist Party Is Tightening Its Grip in Businesses.md",
+    "Readwise/Articles/The Meticulous, Ruthless Preparations for a Second Trump Term.md",
+    "Readwise/Articles/NATO Is Drafting New Plans to Defend Europe.md",
+    "Readwise/Articles/What Would Europe Do if Trump Won.md",
+    "Readwise/Articles/What if China and India Became Friends.md",
+    "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
+    "Readwise/Articles/As NATO’s Leaders Gather in Vilnius, Ukraine Will Dominate Everything.md",
+    "weread/让大象飞/让大象飞.md",
+    "vim/Untitled 2.png.md",
+    "weread/如何阅读一本书/如何阅读一本书.md",
+    "weread/如何阅读一本书",
+    "weread/伊万·伊利奇之死/伊万·伊利奇之死.md",
+    "weread/伊万·伊利奇之死",
+    "weread/让大象飞",
+    "attachment/Pasted image 20230728003318.png",
+    "attachment/Pasted image 20230727132932.png",
+    "attachment/Pasted image 20230728133516.png",
+    "attachment/Untitled 1.png",
+    "attachment/Untitled.png",
+    "attachment/Pasted image 20230728003333.png",
+    "乐理/调式.md",
     "weread/经济学的思维方式（原书第13版）/经济学的思维方式（原书第13版）.md",
     "技术笔记/vim.md",
-    "attachment/Pasted image 20230728003333.png",
-    "attachment/Pasted image 20230728003318.png",
-    "vim/Untitled 2.png.md",
     "vim",
     "技术笔记/Linux.md",
-    "Linux/Untitled.png.md",
     "Linux",
     "notion/notion/技术资料.md",
     "notion/notion/备忘录.md",
     "notion/notion/Tweets.md",
     "notion/notion/music.md",
-    "notion/notion/Task List.md",
-    "notion/notion/literary.md",
-    "notion/notion/econ.md",
     "技术笔记",
-    "notion/notion/技术资料/rust.md",
-    "notion/notion/技术资料/OS笔记.md",
     "notion/notion/技术资料/Linux/Untitled 4.png",
     "notion/notion/技术资料/Linux/Untitled 3.png",
     "notion/notion/技术资料/Linux/Untitled 2.png",
     "notion/notion/技术资料/Linux/Untitled 1.png",
-    "notion/notion/技术资料/Linux/Untitled.png",
-    "notion/notion/备忘录/实验.md",
-    "notion/notion/备忘录/TCD.md",
-    "notion/notion/备忘录/passwords.md",
-    "notion/notion/备忘录/jokes.md",
-    "notion/notion/备忘录/metamask.md",
-    "notion/notion/备忘录/passwords/Untitled.png",
-    "notion/notion/备忘录/jokes/Untitled 2.png",
-    "notion/notion/备忘录/jokes/Untitled 1.png",
-    "notion/notion/Task List/New Task.md",
-    "notion/notion/Task List/leetcode.md",
-    "quote/quote.md",
-    "notion/notion/literary/读书.md",
-    "notion/notion/literary/知识.md",
-    "notion/notion/literary/玩梗.md",
-    "quote/punchline.md",
     "Readwise/Articles",
     "Readwise",
     "attachment",
-    "乐理",
-    "quote",
-    "notion/notion/备忘录/实验/报告",
-    "notion/notion/备忘录/TCD/抵达当日"
+    "乐理"
   ]
 }
