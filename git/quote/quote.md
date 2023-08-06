@@ -1,3 +1,5 @@
+
+
 “It is not the voice that commands the story: it is the ear.”—Italo Calvino #文学
 
 Life's but a walking shadow, a poor player. That struts and frets his hour upon the stage. And then is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing. #文学 
