@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-08-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/Linux.md"
+                "file": "daily/2023-08-07.md"
               }
             }
           }
@@ -149,10 +149,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c1574d6d7690bf34",
+  "active": "2c615076d7a5f957",
   "lastOpenFiles": [
-    "Linux/命令行.md",
     "技术笔记/Linux.md",
+    "daily/2023-08-07.md",
+    "Linux/命令行.md",
     "技术笔记/vim.md",
     "attachment/Pasted image 20230807130028.png",
     "daily/2023-08-05.md",
@@ -186,7 +187,6 @@
     "Readwise/Articles/What if China and India Became Friends.md",
     "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
     "Readwise/Articles/As NATO’s Leaders Gather in Vilnius, Ukraine Will Dominate Everything.md",
-    "weread/让大象飞/让大象飞.md",
     "weread/如何阅读一本书",
     "weread/伊万·伊利奇之死",
     "weread/让大象飞",
