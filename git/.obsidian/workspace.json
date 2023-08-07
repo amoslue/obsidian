@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad8850d63d37b3c",
+        "id": "4a52aba7e21b3c14",
         "type": "tabs",
         "children": [
           {
-            "id": "47e5aa5c833be795",
+            "id": "2c615076d7a5f957",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术笔记/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术笔记/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术笔记/Linux.md"
+              }
             }
           }
         ]
@@ -141,19 +149,34 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "47e5aa5c833be795",
+  "active": "c1574d6d7690bf34",
   "lastOpenFiles": [
+    "Linux/命令行.md",
+    "技术笔记/Linux.md",
+    "技术笔记/vim.md",
+    "attachment/Pasted image 20230807130028.png",
+    "daily/2023-08-05.md",
+    "daily/2023-07-31.md",
+    "daily/2023-07-28.md",
+    "weread/Vim实用技巧/Vim实用技巧.md",
+    "weread/凤凰项目一个IT运维的传奇故事/凤凰项目一个IT运维的传奇故事.md",
+    "weread/凤凰项目一个IT运维的传奇故事",
+    "weread/美国种族简史/美国种族简史.md",
+    "weread/美国种族简史",
+    "weread/打开一颗心：一位心外科医生手术台前的生死故事（巡回全球的惊险手术故事）/打开一颗心：一位心外科医生手术台前的生死故事（巡回全球的惊险手术故事）.md",
+    "weread/打开一颗心：一位心外科医生手术台前的生死故事（巡回全球的惊险手术故事）",
+    "weread/Vim实用技巧",
+    "Readwise/Articles/Authoritarians Are on the March.md",
+    "Readwise/Articles/10 Examples of Grep Command in UNIX and Linux.md",
+    "Readwise/Articles/How to Delete Empty Files and Directories in UNIX or Linux Host Find Command Example.md",
+    "Readwise/Articles/What if Germany Stopped Making Cars.md",
     "quote/quote.md",
     "quote/punchline.md",
-    "daily/2023-08-05.md",
     "attachment/Pasted image 20230805112837.png",
     "attachment/Pasted image 20230805110752.png",
     "attachment/Pasted image 20230805014856.png",
     "attachment/Pasted image 20230805014143.png",
     "attachment/Pasted image 20230805013432.png",
-    "Linux/命令行.md",
-    "daily/2023-07-28.md",
-    "daily/2023-07-31.md",
     "2023-07-31.md",
     "Readwise/Articles/Could Economic Indicators Signal China’s Intent to Go to War.md",
     "Readwise/Articles/China’s Communist Party Is Tightening Its Grip in Businesses.md",
@@ -164,30 +187,15 @@
     "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
     "Readwise/Articles/As NATO’s Leaders Gather in Vilnius, Ukraine Will Dominate Everything.md",
     "weread/让大象飞/让大象飞.md",
-    "vim/Untitled 2.png.md",
-    "weread/如何阅读一本书/如何阅读一本书.md",
     "weread/如何阅读一本书",
-    "weread/伊万·伊利奇之死/伊万·伊利奇之死.md",
     "weread/伊万·伊利奇之死",
     "weread/让大象飞",
     "attachment/Pasted image 20230728003318.png",
     "attachment/Pasted image 20230727132932.png",
     "attachment/Pasted image 20230728133516.png",
     "attachment/Untitled 1.png",
-    "attachment/Untitled.png",
-    "乐理/调式.md",
-    "weread/经济学的思维方式（原书第13版）/经济学的思维方式（原书第13版）.md",
-    "技术笔记/vim.md",
     "vim",
-    "技术笔记/Linux.md",
     "Linux",
-    "notion/notion/技术资料.md",
-    "notion/notion/备忘录.md",
-    "notion/notion/Tweets.md",
-    "技术笔记",
-    "Readwise/Articles",
-    "Readwise",
-    "attachment",
-    "乐理"
+    "技术笔记"
   ]
 }

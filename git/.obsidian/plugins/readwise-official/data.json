@@ -4,9 +4,9 @@
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": true,
-  "lastSavedStatusID": 9767160,
-  "currentSyncStatusID": 9863899,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 9863899,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -31,7 +31,11 @@
     "Readwise/Articles/The Meticulous, Ruthless Preparations for a Second Trump Term.md": "30085469",
     "Readwise/Articles/What if China and India Became Friends.md": "30289023",
     "Readwise/Articles/使用PriorityQueue实现大顶堆.md": "30458106",
-    "Readwise/Articles/Could Economic Indicators Signal China’s Intent to Go to War.md": "30631141"
+    "Readwise/Articles/Could Economic Indicators Signal China’s Intent to Go to War.md": "30631141",
+    "Readwise/Articles/What if Germany Stopped Making Cars.md": "30693271",
+    "Readwise/Articles/How to Delete Empty Files and Directories in UNIX or Linux Host Find Command Example.md": "30714918",
+    "Readwise/Articles/10 Examples of Grep Command in UNIX and Linux.md": "30715087",
+    "Readwise/Articles/Authoritarians Are on the March.md": "30800421"
   },
   "reimportShowConfirmation": true
 }
