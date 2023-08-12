@@ -1,4 +1,4 @@
-
+![[Pasted image 20230810140006.png]]
 
 “It is not the voice that commands the story: it is the ear.”—Italo Calvino #文学
 
