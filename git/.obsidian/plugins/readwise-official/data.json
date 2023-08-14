@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9953839,
-  "currentSyncStatusID": 9988364,
+  "lastSavedStatusID": 9988364,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -93,7 +93,8 @@
     "Readwise/Articles/China’s Economic Recovery Is Spluttering. The Prognosis Is Not Good.md": "29366974",
     "Readwise/Articles/The Wagner Group halts its march on Moscow.md": "29397101",
     "Readwise/Articles/thinslice meaning.md": "29440728",
-    "Readwise/Articles/East Asia’s new family portrait.md": "29668600"
+    "Readwise/Articles/East Asia’s new family portrait.md": "29668600",
+    "Readwise/Tweets/Tweets From 小互.md": "31146927"
   },
   "reimportShowConfirmation": true
 }
