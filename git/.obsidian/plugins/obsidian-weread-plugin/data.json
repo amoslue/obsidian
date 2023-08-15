@@ -1,20 +1,12 @@
 {
   "cookies": [
     {
-      "name": "wr_fp",
-      "value": "1421776139"
-    },
-    {
       "name": "wr_gid",
       "value": "270706762"
     },
     {
       "name": "wr_vid",
       "value": "548707570"
-    },
-    {
-      "name": "wr_skey",
-      "value": "n0HXtogF"
     },
     {
       "name": "wr_pf",
@@ -39,6 +31,14 @@
     {
       "name": "wr_gender",
       "value": "0"
+    },
+    {
+      "name": "wr_skey",
+      "value": "FsURPAgB"
+    },
+    {
+      "name": "wr_fp",
+      "value": "3299656125"
     }
   ],
   "noteLocation": "weread",
@@ -46,7 +46,7 @@
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1691683978641,
+  "lastCookieTime": 1692116443570,
   "isCookieValid": true,
   "user": "Amoslue的小号",
   "userVid": "548707570",
