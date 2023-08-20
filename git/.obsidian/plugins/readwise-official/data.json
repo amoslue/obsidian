@@ -6,7 +6,7 @@
   "isSyncing": false,
   "lastSyncFailed": false,
   "lastSavedStatusID": 9988364,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 10075037,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -94,7 +94,9 @@
     "Readwise/Articles/The Wagner Group halts its march on Moscow.md": "29397101",
     "Readwise/Articles/thinslice meaning.md": "29440728",
     "Readwise/Articles/East Asia’s new family portrait.md": "29668600",
-    "Readwise/Tweets/Tweets From 小互.md": "31146927"
+    "Readwise/Tweets/Tweets From 小互.md": "31146927",
+    "Readwise/Tweets/Tweets From 比特图灵.md": "31246883",
+    "Readwise/Tweets/Tweets From Tw93.md": "31276306"
   },
   "reimportShowConfirmation": true
 }
