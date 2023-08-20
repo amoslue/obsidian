@@ -11,8 +11,12 @@
             "id": "9bfb0bd9261bef68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md"
+              }
             }
           }
         ]
@@ -141,8 +149,17 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c1574d6d7690bf34",
+  "active": "9bfb0bd9261bef68",
   "lastOpenFiles": [
+    "weread/它们的性/它们的性.md",
+    "weread/它们的性",
+    "weread/我的世界观/我的世界观.md",
+    "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
+    "weread/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）.md",
+    "weread/Vue.js快速入门/Vue.js快速入门.md",
+    "weread/七夜/七夜.md",
+    "weread/仁慈的关系/仁慈的关系.md",
+    "weread/人性的污秽（菲利普·罗斯全集）/人性的污秽（菲利普·罗斯全集）.md",
     "weread/关于他人的痛苦（2018年版）/关于他人的痛苦（2018年版）.md",
     "weread/关于他人的痛苦（2018年版）",
     "weread/务虚笔记/务虚笔记.md",
@@ -159,10 +176,8 @@
     "weread/佩德罗·巴拉莫（鲁尔福三部曲）",
     "weread/族长的秋天/族长的秋天.md",
     "weread/族长的秋天",
-    "weread/仁慈的关系/仁慈的关系.md",
     "weread/仁慈的关系",
     "weread/讨论集/讨论集.md",
-    "weread/讨论集",
     "weread/平原上的摩西/平原上的摩西.md",
     "weread/如果在冬夜，一个旅人/如果在冬夜，一个旅人.md",
     "weread/喧哗与骚动/喧哗与骚动.md",
@@ -171,14 +186,6 @@
     "weread/丽质美人必修课：护肤、秀发、美甲、彩妆、装扮（彩图精装）/丽质美人必修课：护肤、秀发、美甲、彩妆、装扮（彩图精装）.md",
     "weread/飞行家（《刺杀小说家》原著小说）/飞行家（《刺杀小说家》原著小说）.md",
     "weread/彩画集：兰波散文诗全集（译文经典）/彩画集：兰波散文诗全集（译文经典）.md",
-    "weread/七夜/七夜.md",
-    "weread/Python编程：从入门到实践/Python编程：从入门到实践.md",
-    "weread/青年斯大林/青年斯大林.md",
-    "weread/我的第一本算法书/我的第一本算法书.md",
-    "weread/我的焦虑是一束火花：阿多尼斯诗歌短章选/我的焦虑是一束火花：阿多尼斯诗歌短章选.md",
-    "weread/圣经故事（全译插图典藏版）/圣经故事（全译插图典藏版）.md",
-    "weread/爱伦·坡短篇小说集（读客三个圈经典文库）/爱伦·坡短篇小说集（读客三个圈经典文库）.md",
-    "weread/艾米莉狄金森精选诗集/艾米莉狄金森精选诗集.md",
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
