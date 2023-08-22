@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "28273bb95525b688",
+        "id": "caeb2ae8204fe4ab",
         "type": "tabs",
         "children": [
           {
-            "id": "9bfb0bd9261bef68",
+            "id": "76d6a7abf0f6bcb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +141,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "9bfb0bd9261bef68",
+  "active": "76d6a7abf0f6bcb0",
   "lastOpenFiles": [
+    "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
     "weread/它们的性/它们的性.md",
     "weread/它们的性",
     "weread/我的世界观/我的世界观.md",
