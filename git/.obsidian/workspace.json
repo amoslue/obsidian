@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-08-22.md",
+                "file": "daily/2023-08-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-08-22.md",
+                "file": "daily/2023-08-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-08-22.md",
+                "file": "daily/2023-08-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-08-22.md"
+                "file": "daily/2023-08-24.md"
               }
             }
           }
@@ -150,9 +150,12 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3394c96555e7fc91",
+  "active": "76d6a7abf0f6bcb0",
   "lastOpenFiles": [
     "daily/2023-08-22.md",
+    "daily/2023-08-24.md",
+    "weread/黄景仁诗选（增订本）/黄景仁诗选（增订本）.md",
+    "weread/黄景仁诗选（增订本）",
     "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
     "weread/它们的性/它们的性.md",
     "weread/它们的性",
@@ -179,15 +182,12 @@
     "weread/佩德罗·巴拉莫（鲁尔福三部曲）",
     "weread/族长的秋天/族长的秋天.md",
     "weread/族长的秋天",
-    "weread/仁慈的关系",
     "weread/讨论集/讨论集.md",
     "weread/平原上的摩西/平原上的摩西.md",
     "weread/如果在冬夜，一个旅人/如果在冬夜，一个旅人.md",
     "weread/喧哗与骚动/喧哗与骚动.md",
     "weread/贾想Ⅰ：贾樟柯电影手记（1996—2008）/贾想Ⅰ：贾樟柯电影手记（1996—2008）.md",
     "weread/金蔷薇（译文经典）/金蔷薇（译文经典）.md",
-    "weread/丽质美人必修课：护肤、秀发、美甲、彩妆、装扮（彩图精装）/丽质美人必修课：护肤、秀发、美甲、彩妆、装扮（彩图精装）.md",
-    "weread/飞行家（《刺杀小说家》原著小说）/飞行家（《刺杀小说家》原著小说）.md",
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
