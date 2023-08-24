@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +150,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "76d6a7abf0f6bcb0",
+  "active": "3394c96555e7fc91",
   "lastOpenFiles": [
     "daily/2023-08-22.md",
     "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
