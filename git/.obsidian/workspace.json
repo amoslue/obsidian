@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0680e02222435a28",
+        "id": "608c4c551d081118",
         "type": "tabs",
         "children": [
           {
-            "id": "980c3ca31ca3e2a3",
+            "id": "48627c27e16a18db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,8 +142,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "980c3ca31ca3e2a3",
+  "active": "48627c27e16a18db",
   "lastOpenFiles": [
+    "daily/2023-08-27.md",
+    "Readwise/Tweets/Tweets From Viking.md",
+    "Readwise/Tweets/Tweets From SecurityTrybe.md",
+    "Readwise/Articles/Yevgeny Prigozhin’s Reported Death May Consolidate Putin’s Power.md",
+    "attachment/Pasted image 20230827160350.png",
     "daily/2023-08-24.md",
     "daily/2023-08-22.md",
     "weread/黄景仁诗选（增订本）/黄景仁诗选（增订本）.md",
@@ -176,10 +181,6 @@
     "weread/族长的秋天",
     "weread/讨论集/讨论集.md",
     "weread/平原上的摩西/平原上的摩西.md",
-    "weread/如果在冬夜，一个旅人/如果在冬夜，一个旅人.md",
-    "weread/喧哗与骚动/喧哗与骚动.md",
-    "weread/贾想Ⅰ：贾樟柯电影手记（1996—2008）/贾想Ⅰ：贾樟柯电影手记（1996—2008）.md",
-    "weread/金蔷薇（译文经典）/金蔷薇（译文经典）.md",
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
@@ -188,7 +189,6 @@
     "attachment/Pasted image 20230805014856.png",
     "attachment/Pasted image 20230805014143.png",
     "attachment/Pasted image 20230805013432.png",
-    "attachment/Pasted image 20230728003318.png",
-    "attachment/Pasted image 20230727132932.png"
+    "attachment/Pasted image 20230728003318.png"
   ]
 }

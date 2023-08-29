@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10129663,
-  "currentSyncStatusID": 10172549,
+  "lastSavedStatusID": 10172549,
+  "currentSyncStatusID": 10207699,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -96,7 +96,10 @@
     "Readwise/Articles/East Asia’s new family portrait.md": "29668600",
     "Readwise/Tweets/Tweets From 小互.md": "31146927",
     "Readwise/Tweets/Tweets From 比特图灵.md": "31246883",
-    "Readwise/Tweets/Tweets From Tw93.md": "31276306"
+    "Readwise/Tweets/Tweets From Tw93.md": "31276306",
+    "Readwise/Articles/Yevgeny Prigozhin’s Reported Death May Consolidate Putin’s Power.md": "31493101",
+    "Readwise/Tweets/Tweets From SecurityTrybe.md": "31530024",
+    "Readwise/Tweets/Tweets From Viking.md": "31576289"
   },
   "reimportShowConfirmation": true
 }
