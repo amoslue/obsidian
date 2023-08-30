@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/git.md",
+                "file": "daily/2023-08-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/git.md",
+                "file": "daily/2023-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/git.md",
+                "file": "daily/2023-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/git.md"
+                "file": "daily/2023-08-31.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "2e2f608f64ff64f1",
   "lastOpenFiles": [
-    "attachment/Pasted image 20230830234928.png",
     "技术笔记/git.md",
+    "daily/2023-08-31.md",
+    "attachment/Pasted image 20230830234928.png",
     "daily/2023-08-27.md",
     "Readwise/Tweets/Tweets From Viking.md",
     "Readwise/Tweets/Tweets From SecurityTrybe.md",
@@ -195,7 +196,6 @@
     "attachment/Pasted image 20230805110752.png",
     "attachment/Pasted image 20230805014856.png",
     "attachment/Pasted image 20230805014143.png",
-    "attachment/Pasted image 20230805013432.png",
-    "attachment/Pasted image 20230728003318.png"
+    "attachment/Pasted image 20230805013432.png"
   ]
 }
