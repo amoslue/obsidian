@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "608c4c551d081118",
+        "id": "5fa877d39e4e6ab9",
         "type": "tabs",
         "children": [
           {
-            "id": "48627c27e16a18db",
+            "id": "2e2f608f64ff64f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,7 +142,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "48627c27e16a18db",
+  "active": "2e2f608f64ff64f1",
   "lastOpenFiles": [
     "daily/2023-08-27.md",
     "Readwise/Tweets/Tweets From Viking.md",
