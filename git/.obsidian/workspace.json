@@ -11,8 +11,12 @@
             "id": "2e2f608f64ff64f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术笔记/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术笔记/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术笔记/git.md"
+              }
             }
           }
         ]
@@ -144,6 +151,8 @@
   },
   "active": "2e2f608f64ff64f1",
   "lastOpenFiles": [
+    "attachment/Pasted image 20230830234928.png",
+    "技术笔记/git.md",
     "daily/2023-08-27.md",
     "Readwise/Tweets/Tweets From Viking.md",
     "Readwise/Tweets/Tweets From SecurityTrybe.md",
@@ -179,8 +188,6 @@
     "weread/佩德罗·巴拉莫（鲁尔福三部曲）",
     "weread/族长的秋天/族长的秋天.md",
     "weread/族长的秋天",
-    "weread/讨论集/讨论集.md",
-    "weread/平原上的摩西/平原上的摩西.md",
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
