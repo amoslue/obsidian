@@ -11,7 +11,7 @@
             "id": "78695d291f0103a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d1eae1428fd56949",
@@ -143,6 +143,7 @@
   },
   "active": "78695d291f0103a5",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "weread/我心深处/我心深处.md",
     "weread/我心深处",
     "weread/沟通的艺术/沟通的艺术.md",
@@ -178,7 +179,6 @@
     "weread/务虚笔记",
     "weread/巴黎评论·作家访谈1/巴黎评论·作家访谈1.md",
     "weread/巴黎评论·作家访谈1",
-    "weread/荒原：艾略特文集·诗歌/荒原：艾略特文集·诗歌.md",
     "weread/荒原：艾略特文集·诗歌",
     "weread/大师和玛格丽特",
     "attachment/Pasted image 20230811001239.png",
