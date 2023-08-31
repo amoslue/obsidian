@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa877d39e4e6ab9",
+        "id": "e42163f0ac4cd170",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2f608f64ff64f1",
+            "id": "78695d291f0103a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-08-31.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2023-08-31.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +141,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "2e2f608f64ff64f1",
+  "active": "78695d291f0103a5",
   "lastOpenFiles": [
-    "技术笔记/git.md",
     "daily/2023-08-31.md",
+    "技术笔记/git.md",
     "attachment/Pasted image 20230830234928.png",
     "daily/2023-08-27.md",
     "Readwise/Tweets/Tweets From Viking.md",
