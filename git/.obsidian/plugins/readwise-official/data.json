@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10238043,
-  "currentSyncStatusID": 10260127,
+  "lastSavedStatusID": 10260127,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -100,7 +100,9 @@
     "Readwise/Articles/Yevgeny Prigozhin’s Reported Death May Consolidate Putin’s Power.md": "31493101",
     "Readwise/Tweets/Tweets From SecurityTrybe.md": "31530024",
     "Readwise/Tweets/Tweets From Viking.md": "31576289",
-    "Readwise/Articles/金融 的本质是什么？.md": "31726360"
+    "Readwise/Articles/金融 的本质是什么？.md": "31726360",
+    "Readwise/Tweets/Tweets from Security Trybe.md": "31530024",
+    "Readwise/Tweets/Tweets From Lvwzhen.md": "31779199"
   },
   "reimportShowConfirmation": true
 }
