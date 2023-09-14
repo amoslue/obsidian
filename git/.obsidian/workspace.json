@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-02.md",
+                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "情感",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-02.md",
+                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-02.md",
+                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-02.md"
+                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md"
               }
             }
           }
@@ -152,6 +153,9 @@
   "active": "365d4488c68b05f4",
   "lastOpenFiles": [
     "daily/2023-09-02.md",
+    "Readwise/Articles/我们妄想虔诚，同时我们却不加考虑地逍遥游荡，任凭舒适的偶然来摆布，归终把这样一个飘摇不定的生活结果称作一种神的引导。维廉·麦斯特的学习时代  Wilhelm M....md",
+    "Readwise/Articles/TypeScript 基本用法.md",
+    "Readwise/Articles/家用咖啡手册 11  一杯不错的意式咖啡是如何诞生的？.md",
     "Readwise/Tweets/Tweets From Lvwzhen.md",
     "Readwise/Tweets/Tweets from Security Trybe.md",
     "Untitled.canvas",
@@ -182,9 +186,6 @@
     "weread/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）.md",
     "weread/Vue.js快速入门/Vue.js快速入门.md",
     "weread/七夜/七夜.md",
-    "weread/仁慈的关系/仁慈的关系.md",
-    "weread/人性的污秽（菲利普·罗斯全集）/人性的污秽（菲利普·罗斯全集）.md",
-    "weread/关于他人的痛苦（2018年版）/关于他人的痛苦（2018年版）.md",
     "weread/关于他人的痛苦（2018年版）",
     "weread/务虚笔记",
     "weread/巴黎评论·作家访谈1",

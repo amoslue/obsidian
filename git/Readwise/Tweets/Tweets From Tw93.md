@@ -16,3 +16,7 @@
 - #工程师学习 这个「Web 3.0 通识课」很适合小白去了解 Web 3.0 里面的常识问题，基本上都看得懂，从身份系统、L1 公链、Layer 2 和跨链桥、DeFi 链上金融应用、NFT 市场、DAO 等概念来讲解，不过我不是很深入了解这一块，更多用小白视角来看看。
   https://t.co/URT4Pob6X2 https://t.co/mimAuYYpOr 
   ![](https://pbs.twimg.com/media/F4YqWthb0AAhiP8.jpg) ([View Tweet](https://twitter.com/HiTw93/status/1695089112896958689))
+## New highlights added September 15, 2023 at 6:09 AM
+- #工程师学习 这个「clean-code-javascript」非常适合前端初学者去全部读和写一遍，一份关于如何在 JavaScript 中编写可读性强、可重用性高且易于重构的软件的指南。好多年前看过，发现居然还在更新着最新的语法，挺好的。
+  🤖️https://t.co/eCuImxTsGq 
+  ![](https://pbs.twimg.com/media/F5mG2_EbYAAllV_.jpg) ([View Tweet](https://twitter.com/HiTw93/status/1701021736802673075))

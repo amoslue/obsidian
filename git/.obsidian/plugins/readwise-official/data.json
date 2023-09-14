@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10260127,
-  "currentSyncStatusID": 10447863,
+  "lastSavedStatusID": 10447863,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -102,7 +102,10 @@
     "Readwise/Tweets/Tweets From Viking.md": "31576289",
     "Readwise/Articles/金融 的本质是什么？.md": "31726360",
     "Readwise/Tweets/Tweets from Security Trybe.md": "31530024",
-    "Readwise/Tweets/Tweets From Lvwzhen.md": "31779199"
+    "Readwise/Tweets/Tweets From Lvwzhen.md": "31779199",
+    "Readwise/Articles/家用咖啡手册 11  一杯不错的意式咖啡是如何诞生的？.md": "31820440",
+    "Readwise/Articles/TypeScript 基本用法.md": "31828843",
+    "Readwise/Articles/我们妄想虔诚，同时我们却不加考虑地逍遥游荡，任凭舒适的偶然来摆布，归终把这样一个飘摇不定的生活结果称作一种神的引导。维廉·麦斯特的学习时代  Wilhelm M....md": "31829008"
   },
   "reimportShowConfirmation": true
 }
