@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b38bb6a5b58743f",
+        "id": "6b07b3fb37b7972d",
         "type": "tabs",
         "children": [
           {
-            "id": "365d4488c68b05f4",
+            "id": "e77c89555f874c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
+                "file": "daily/2023-09-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "情感",
+                "query": "自动化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
+                "file": "daily/2023-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
+                "file": "daily/2023-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md"
+                "file": "daily/2023-09-16.md"
               }
             }
           }
@@ -150,8 +150,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "365d4488c68b05f4",
+  "active": "e77c89555f874c03",
   "lastOpenFiles": [
+    "daily/2023-09-16.md",
+    "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
     "daily/2023-09-02.md",
     "Readwise/Articles/我们妄想虔诚，同时我们却不加考虑地逍遥游荡，任凭舒适的偶然来摆布，归终把这样一个飘摇不定的生活结果称作一种神的引导。维廉·麦斯特的学习时代  Wilhelm M....md",
     "Readwise/Articles/TypeScript 基本用法.md",
@@ -182,10 +184,8 @@
     "weread/它们的性/它们的性.md",
     "weread/它们的性",
     "weread/我的世界观/我的世界观.md",
-    "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
     "weread/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）.md",
     "weread/Vue.js快速入门/Vue.js快速入门.md",
-    "weread/七夜/七夜.md",
     "weread/关于他人的痛苦（2018年版）",
     "weread/务虚笔记",
     "weread/巴黎评论·作家访谈1",
