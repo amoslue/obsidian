@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b07b3fb37b7972d",
+        "id": "bd442e8fa2cdef97",
         "type": "tabs",
         "children": [
           {
-            "id": "e77c89555f874c03",
+            "id": "cb0020a4d1ccfb67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-09-16.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2023-09-16.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,7 +142,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "e77c89555f874c03",
+  "active": "cb0020a4d1ccfb67",
   "lastOpenFiles": [
     "daily/2023-09-16.md",
     "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
