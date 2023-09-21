@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd442e8fa2cdef97",
+        "id": "e9f1af5c503356cd",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0020a4d1ccfb67",
+            "id": "1ed536a367f18f3d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,7 +142,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "cb0020a4d1ccfb67",
+  "active": "1ed536a367f18f3d",
   "lastOpenFiles": [
     "daily/2023-09-16.md",
     "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
