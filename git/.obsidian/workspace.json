@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f1af5c503356cd",
+        "id": "fce6b05d406b70ca",
         "type": "tabs",
         "children": [
           {
-            "id": "1ed536a367f18f3d",
+            "id": "799fab668fbd7c30",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,8 +142,19 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1ed536a367f18f3d",
+  "active": "799fab668fbd7c30",
   "lastOpenFiles": [
+    "daily/2023-09-23.md",
+    "weread/The Remains of the Day/The Remains of the Day.md",
+    "weread/The Remains of the Day",
+    "weread/制造音乐/制造音乐.md",
+    "weread/制造音乐",
+    "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）.md",
+    "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）",
+    "weread/契诃夫短篇小说选/契诃夫短篇小说选.md",
+    "weread/契诃夫短篇小说选",
+    "weread/Test-Driven Java Development（Second Edition）/Test-Driven Java Development（Second Edition）.md",
+    "weread/Test-Driven Java Development（Second Edition）",
     "daily/2023-09-16.md",
     "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
     "daily/2023-09-02.md",
@@ -170,19 +181,8 @@
     "attachment/Pasted image 20230827160350.png",
     "daily/2023-08-24.md",
     "daily/2023-08-22.md",
-    "weread/黄景仁诗选（增订本）/黄景仁诗选（增订本）.md",
     "weread/黄景仁诗选（增订本）",
-    "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
-    "weread/它们的性/它们的性.md",
     "weread/它们的性",
-    "weread/我的世界观/我的世界观.md",
-    "weread/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）/仿生人会梦见电子羊吗？（电影《银翼杀手》原著）.md",
-    "weread/Vue.js快速入门/Vue.js快速入门.md",
-    "weread/关于他人的痛苦（2018年版）",
-    "weread/务虚笔记",
-    "weread/巴黎评论·作家访谈1",
-    "weread/荒原：艾略特文集·诗歌",
-    "weread/大师和玛格丽特",
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
