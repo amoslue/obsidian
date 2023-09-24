@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5cfcc3163af068ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +153,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "799fab668fbd7c30",
+  "active": "5cfcc3163af068ec",
   "lastOpenFiles": [
     "daily/2023-09-23.md",
     "weread/The Remains of the Day/The Remains of the Day.md",
