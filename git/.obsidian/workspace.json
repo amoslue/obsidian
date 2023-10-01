@@ -19,9 +19,11 @@
             "id": "2e174b375655a3f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "daily/2023-10-01.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-10-01.md"
+              }
             }
           }
         ]
@@ -155,6 +161,10 @@
   },
   "active": "2e174b375655a3f2",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231001231854.png",
+    "daily/2023-10-01.md",
+    "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md",
+    "Readwise/Tweets/Tweets From Phuslu.md",
     "daily/2023-09-23.md",
     "weread/The Remains of the Day/The Remains of the Day.md",
     "weread/The Remains of the Day",
@@ -187,11 +197,7 @@
     "attachment/Pasted image 20230830234928.png",
     "daily/2023-08-27.md",
     "Readwise/Tweets/Tweets From Viking.md",
-    "Readwise/Tweets/Tweets From SecurityTrybe.md",
-    "Readwise/Articles/Yevgeny Prigozhin’s Reported Death May Consolidate Putin’s Power.md",
     "attachment/Pasted image 20230827160350.png",
-    "daily/2023-08-24.md",
-    "daily/2023-08-22.md",
     "weread/黄景仁诗选（增订本）",
     "weread/它们的性",
     "attachment/Pasted image 20230811001239.png",
