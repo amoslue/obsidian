@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10698866,
-  "currentSyncStatusID": 10865683,
+  "lastSavedStatusID": 10865683,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -107,7 +107,8 @@
     "Readwise/Articles/TypeScript 基本用法.md": "31828843",
     "Readwise/Articles/我们妄想虔诚，同时我们却不加考虑地逍遥游荡，任凭舒适的偶然来摆布，归终把这样一个飘摇不定的生活结果称作一种神的引导。维廉·麦斯特的学习时代  Wilhelm M....md": "31829008",
     "Readwise/Tweets/Tweets From Phuslu.md": "32592516",
-    "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md": "32703635"
+    "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md": "32703635",
+    "Readwise/Articles/二分查找算法详解.md": "33017451"
   },
   "reimportShowConfirmation": true
 }

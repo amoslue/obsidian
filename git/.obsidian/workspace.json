@@ -11,8 +11,12 @@
             "id": "799fab668fbd7c30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-10-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-10-12.md"
+              }
             }
           }
         ]
@@ -144,6 +152,8 @@
   },
   "active": "799fab668fbd7c30",
   "lastOpenFiles": [
+    "daily/2023-10-12.md",
+    "Readwise/Articles/二分查找算法详解.md",
     "daily/2023-10-01.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
@@ -181,7 +191,6 @@
     "技术笔记/git.md",
     "attachment/Pasted image 20230830234928.png",
     "daily/2023-08-27.md",
-    "Readwise/Tweets/Tweets From Viking.md",
     "attachment/Pasted image 20230827160350.png",
     "weread/黄景仁诗选（增订本）",
     "weread/它们的性",
