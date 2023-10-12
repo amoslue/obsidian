@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-10-12.md",
+                "file": "quote/quote.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-10-12.md",
+                "file": "quote/quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-10-12.md",
+                "file": "quote/quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-10-12.md"
+                "file": "quote/quote.md"
               }
             }
           }
@@ -152,6 +151,9 @@
   },
   "active": "799fab668fbd7c30",
   "lastOpenFiles": [
+    "技术笔记/git.md",
+    "技术笔记/Linux.md",
+    "技术笔记/vim.md",
     "daily/2023-10-12.md",
     "Readwise/Articles/二分查找算法详解.md",
     "daily/2023-10-01.md",
@@ -187,10 +189,7 @@
     "weread/死亡赋格：保罗·策兰诗精选/死亡赋格：保罗·策兰诗精选.md",
     "weread/死亡赋格：保罗·策兰诗精选",
     "Readwise/Articles/金融 的本质是什么？.md",
-    "daily/2023-08-31.md",
-    "技术笔记/git.md",
     "attachment/Pasted image 20230830234928.png",
-    "daily/2023-08-27.md",
     "attachment/Pasted image 20230827160350.png",
     "weread/黄景仁诗选（增订本）",
     "weread/它们的性",
