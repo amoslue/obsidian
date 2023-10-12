@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2e174b375655a3f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-10-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2023-10-01.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +142,12 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "2e174b375655a3f2",
+  "active": "799fab668fbd7c30",
   "lastOpenFiles": [
+    "daily/2023-10-01.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
-    "daily/2023-10-01.md",
     "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md",
     "Readwise/Tweets/Tweets From Phuslu.md",
     "daily/2023-09-23.md",
@@ -206,7 +189,6 @@
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
     "attachment/Pasted image 20230805112837.png",
-    "attachment/Pasted image 20230805110752.png",
-    "attachment/Pasted image 20230805014856.png"
+    "attachment/Pasted image 20230805110752.png"
   ]
 }
