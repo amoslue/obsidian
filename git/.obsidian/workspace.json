@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quote/quote.md",
+                "file": "daily/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quote/quote.md",
+                "file": "daily/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quote/quote.md",
+                "file": "daily/2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quote/quote.md"
+                "file": "daily/2023-10-13.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "799fab668fbd7c30",
   "lastOpenFiles": [
+    "quote/quote.md",
+    "daily/2023-10-13.md",
     "技术笔记/git.md",
     "技术笔记/Linux.md",
     "技术笔记/vim.md",
@@ -186,9 +188,7 @@
     "weread/我心深处",
     "weread/沟通的艺术/沟通的艺术.md",
     "weread/沟通的艺术",
-    "weread/死亡赋格：保罗·策兰诗精选/死亡赋格：保罗·策兰诗精选.md",
     "weread/死亡赋格：保罗·策兰诗精选",
-    "Readwise/Articles/金融 的本质是什么？.md",
     "attachment/Pasted image 20230830234928.png",
     "attachment/Pasted image 20230827160350.png",
     "weread/黄景仁诗选（增订本）",
