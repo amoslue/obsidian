@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-10-13.md",
+                "file": "技术笔记/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自动化",
+                "query": "127.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-10-13.md",
+                "file": "技术笔记/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-10-13.md",
+                "file": "技术笔记/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-10-13.md"
+                "file": "技术笔记/Linux.md"
               }
             }
           }
@@ -151,8 +152,8 @@
   },
   "active": "799fab668fbd7c30",
   "lastOpenFiles": [
-    "quote/quote.md",
     "daily/2023-10-13.md",
+    "quote/quote.md",
     "技术笔记/git.md",
     "技术笔记/Linux.md",
     "技术笔记/vim.md",

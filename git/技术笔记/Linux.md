@@ -10,7 +10,10 @@
 + 看本机ip
 	    - ifconfig | grep "inet " | grep -v 127.0.0.1
     
-    
++ 本机开server
+		- curl phus.lu/fileserver.py | python
+		- python -m http.server
+
 + 查找文件
 		- find / -type d -name nginx/config 2>/dev/null
     
