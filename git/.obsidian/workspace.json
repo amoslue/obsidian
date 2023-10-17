@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/Linux.md"
+                "file": "daily/2023-10-17.md"
               }
             }
           }
@@ -152,10 +152,11 @@
   },
   "active": "799fab668fbd7c30",
   "lastOpenFiles": [
+    "技术笔记/Linux.md",
+    "daily/2023-10-17.md",
     "daily/2023-10-13.md",
     "quote/quote.md",
     "技术笔记/git.md",
-    "技术笔记/Linux.md",
     "技术笔记/vim.md",
     "daily/2023-10-12.md",
     "Readwise/Articles/二分查找算法详解.md",
@@ -187,7 +188,6 @@
     "Untitled.canvas",
     "weread/我心深处/我心深处.md",
     "weread/我心深处",
-    "weread/沟通的艺术/沟通的艺术.md",
     "weread/沟通的艺术",
     "weread/死亡赋格：保罗·策兰诗精选",
     "attachment/Pasted image 20230830234928.png",
