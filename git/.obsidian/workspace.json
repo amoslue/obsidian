@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "692354edc9c220c1",
+        "id": "e0fd6a253ecae5a4",
         "type": "tabs",
         "children": [
           {
-            "id": "eb23d6559bd3a603",
+            "id": "31d61b5065e8903d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,12 +141,15 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "eb23d6559bd3a603",
+  "active": "31d61b5065e8903d",
   "lastOpenFiles": [
     "daily/2023-08-11.md",
+    "daily/2023-08-14.md",
     "daily/2023-08-22.md",
+    "daily/2023-08-24.md",
     "daily/2023-08-27.md",
     "daily/2023-08-31.md",
+    "daily/2023-09-02.md",
     "daily/2023-09-16.md",
     "daily/2023-09-23.md",
     "daily/2023-10-01.md",
@@ -174,9 +177,6 @@
     "weread/Test-Driven Java Development（Second Edition）/Test-Driven Java Development（Second Edition）.md",
     "weread/Test-Driven Java Development（Second Edition）",
     "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
-    "daily/2023-09-02.md",
-    "Readwise/Articles/我们妄想虔诚，同时我们却不加考虑地逍遥游荡，任凭舒适的偶然来摆布，归终把这样一个飘摇不定的生活结果称作一种神的引导。维廉·麦斯特的学习时代  Wilhelm M....md",
-    "Readwise/Articles/TypeScript 基本用法.md",
     "Untitled.canvas",
     "weread/我心深处",
     "weread/沟通的艺术",
