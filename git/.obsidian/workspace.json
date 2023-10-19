@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fce6b05d406b70ca",
+        "id": "692354edc9c220c1",
         "type": "tabs",
         "children": [
           {
-            "id": "799fab668fbd7c30",
+            "id": "eb23d6559bd3a603",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-10-17.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "127.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2023-10-17.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,23 +141,28 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "799fab668fbd7c30",
+  "active": "eb23d6559bd3a603",
   "lastOpenFiles": [
-    "技术笔记/Linux.md",
+    "daily/2023-08-11.md",
+    "daily/2023-08-22.md",
+    "daily/2023-08-27.md",
+    "daily/2023-08-31.md",
+    "daily/2023-09-16.md",
+    "daily/2023-09-23.md",
+    "daily/2023-10-01.md",
+    "daily/2023-10-12.md",
     "daily/2023-10-17.md",
     "daily/2023-10-13.md",
+    "技术笔记/Linux.md",
     "quote/quote.md",
     "技术笔记/git.md",
     "技术笔记/vim.md",
-    "daily/2023-10-12.md",
     "Readwise/Articles/二分查找算法详解.md",
-    "daily/2023-10-01.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
     "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md",
     "Readwise/Tweets/Tweets From Phuslu.md",
-    "daily/2023-09-23.md",
     "weread/The Remains of the Day/The Remains of the Day.md",
     "weread/The Remains of the Day",
     "weread/制造音乐/制造音乐.md",
@@ -177,16 +173,11 @@
     "weread/契诃夫短篇小说选",
     "weread/Test-Driven Java Development（Second Edition）/Test-Driven Java Development（Second Edition）.md",
     "weread/Test-Driven Java Development（Second Edition）",
-    "daily/2023-09-16.md",
     "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
     "daily/2023-09-02.md",
     "Readwise/Articles/我们妄想虔诚，同时我们却不加考虑地逍遥游荡，任凭舒适的偶然来摆布，归终把这样一个飘摇不定的生活结果称作一种神的引导。维廉·麦斯特的学习时代  Wilhelm M....md",
     "Readwise/Articles/TypeScript 基本用法.md",
-    "Readwise/Articles/家用咖啡手册 11  一杯不错的意式咖啡是如何诞生的？.md",
-    "Readwise/Tweets/Tweets From Lvwzhen.md",
-    "Readwise/Tweets/Tweets from Security Trybe.md",
     "Untitled.canvas",
-    "weread/我心深处/我心深处.md",
     "weread/我心深处",
     "weread/沟通的艺术",
     "weread/死亡赋格：保罗·策兰诗精选",
