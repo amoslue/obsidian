@@ -11,8 +11,12 @@
             "id": "31d61b5065e8903d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "weread/深入理解JVM字节码/深入理解JVM字节码.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "weread/深入理解JVM字节码/深入理解JVM字节码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "weread/深入理解JVM字节码/深入理解JVM字节码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "weread/深入理解JVM字节码/深入理解JVM字节码.md"
+              }
             }
           }
         ]
@@ -143,40 +151,40 @@
   },
   "active": "31d61b5065e8903d",
   "lastOpenFiles": [
+    "weread/卡夫卡小说全集（1-3卷）/卡夫卡小说全集（1-3卷）.md",
+    "weread/务虚笔记/务虚笔记.md",
+    "weread/Java并发编程之美/Java并发编程之美.md",
+    "Readwise/Tweets/Tweets From Phuslu.md",
+    "Readwise/Tweets/Tweets from Security Trybe.md",
+    "Readwise/Tweets/Tweets From Viking.md",
+    "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
+    "Readwise/Articles/一篇故事秒懂 Floyd-Warshall 最短路算法.md",
+    "Readwise/Articles/理解 JavaScript 的 AsyncAwait.md",
+    "Readwise/Articles/程序员如何把控自己的职业.md",
+    "Readwise/Articles/金融 的本质是什么？.md",
+    "quote/punchline.md",
+    "quote/quote.md",
+    "daily/2023-07-28.md",
+    "daily/2023-08-05.md",
+    "daily/2023-08-07.md",
+    "daily/2023-08-22.md",
+    "daily/2023-08-27.md",
     "daily/2023-08-11.md",
     "daily/2023-08-14.md",
-    "daily/2023-08-22.md",
     "daily/2023-08-24.md",
-    "daily/2023-08-27.md",
     "daily/2023-08-31.md",
     "daily/2023-09-02.md",
     "daily/2023-09-16.md",
     "daily/2023-09-23.md",
     "daily/2023-10-01.md",
-    "daily/2023-10-12.md",
-    "daily/2023-10-17.md",
-    "daily/2023-10-13.md",
-    "技术笔记/Linux.md",
-    "quote/quote.md",
-    "技术笔记/git.md",
-    "技术笔记/vim.md",
-    "Readwise/Articles/二分查找算法详解.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
-    "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md",
-    "Readwise/Tweets/Tweets From Phuslu.md",
-    "weread/The Remains of the Day/The Remains of the Day.md",
     "weread/The Remains of the Day",
-    "weread/制造音乐/制造音乐.md",
     "weread/制造音乐",
-    "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）.md",
     "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）",
-    "weread/契诃夫短篇小说选/契诃夫短篇小说选.md",
     "weread/契诃夫短篇小说选",
-    "weread/Test-Driven Java Development（Second Edition）/Test-Driven Java Development（Second Edition）.md",
     "weread/Test-Driven Java Development（Second Edition）",
-    "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
     "Untitled.canvas",
     "weread/我心深处",
     "weread/沟通的艺术",
