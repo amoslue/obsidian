@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-10-25.md",
-                "mode": "source",
+                "file": "daily/2023-10-31.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "加入",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-10-25.md",
+                "file": "daily/2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-10-25.md",
+                "file": "daily/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-10-25.md"
+                "file": "daily/2023-10-31.md"
               }
             }
           }
@@ -150,11 +149,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3394c96555e7fc91",
+  "active": "31d61b5065e8903d",
   "lastOpenFiles": [
+    "Readwise/Articles/Java Given a Set of N Tasks,the Ith Task Runs From Time Start[i] Through End[i]. Implemet a Task Scheduler Method That Finds the Minimum Number of Machines Required to Complete the Tasks..md",
+    "daily/2023-10-25.md",
+    "daily/2023-10-31.md",
     "attachment/Pasted image 20231025134147.png",
     "weread/深入理解JVM字节码/深入理解JVM字节码.md",
-    "daily/2023-10-25.md",
     "weread/卡夫卡小说全集（1-3卷）/卡夫卡小说全集（1-3卷）.md",
     "weread/务虚笔记/务虚笔记.md",
     "weread/Java并发编程之美/Java并发编程之美.md",
@@ -177,7 +178,6 @@
     "daily/2023-08-14.md",
     "daily/2023-08-24.md",
     "daily/2023-08-31.md",
-    "daily/2023-09-02.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
@@ -197,7 +197,6 @@
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png",
-    "attachment/Pasted image 20230805112837.png",
-    "attachment/Pasted image 20230805110752.png"
+    "attachment/Pasted image 20230805112837.png"
   ]
 }
