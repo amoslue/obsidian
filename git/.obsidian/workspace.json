@@ -11,8 +11,12 @@
             "id": "8a31e32cd3533c9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-09-16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-09-16.md"
+              }
             }
           }
         ]
@@ -143,10 +151,16 @@
   },
   "active": "8a31e32cd3533c9b",
   "lastOpenFiles": [
+    "daily/2023-09-23.md",
+    "daily/2023-10-01.md",
+    "daily/2023-10-12.md",
+    "daily/2023-10-17.md",
+    "daily/2023-10-25.md",
     "daily/2023-10-31.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "attachment/Pasted image 20231031132319.png",
     "Readwise/Articles/Java Given a Set of N Tasks,the Ith Task Runs From Time Start[i] Through End[i]. Implemet a Task Scheduler Method That Finds the Minimum Number of Machines Required to Complete the Tasks..md",
-    "daily/2023-10-25.md",
     "attachment/Pasted image 20231025134147.png",
     "weread/深入理解JVM字节码/深入理解JVM字节码.md",
     "weread/卡夫卡小说全集（1-3卷）/卡夫卡小说全集（1-3卷）.md",
@@ -166,10 +180,6 @@
     "daily/2023-08-05.md",
     "daily/2023-08-07.md",
     "daily/2023-08-22.md",
-    "daily/2023-08-27.md",
-    "daily/2023-08-11.md",
-    "daily/2023-08-14.md",
-    "daily/2023-08-24.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
@@ -178,7 +188,6 @@
     "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）",
     "weread/契诃夫短篇小说选",
     "weread/Test-Driven Java Development（Second Edition）",
-    "Untitled.canvas",
     "weread/我心深处",
     "weread/沟通的艺术",
     "weread/死亡赋格：保罗·策兰诗精选",
