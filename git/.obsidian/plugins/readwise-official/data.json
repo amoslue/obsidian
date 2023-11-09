@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 11239725,
-  "currentSyncStatusID": 11264643,
+  "lastSavedStatusID": 11264643,
+  "currentSyncStatusID": 11288800,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -110,7 +110,8 @@
     "Readwise/Articles/43-how-to-design-robust-and-predictable-apis-with-idempotency.md.md": "32703635",
     "Readwise/Articles/二分查找算法详解.md": "33017451",
     "Readwise/Articles/Java Given a Set of N Tasks,the Ith Task Runs From Time Start[i] Through End[i]. Implemet a Task Scheduler Method That Finds the Minimum Number of Machines Required to Complete the Tasks..md": "33662852",
-    "Readwise/Articles/Rewriting Your Git History, Removing Files Permanently [Cheat Sheet Included].md": "33782100"
+    "Readwise/Articles/Rewriting Your Git History, Removing Files Permanently [Cheat Sheet Included].md": "33782100",
+    "Readwise/Articles/ByteByteGoHqsystem-design-101 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews..md": "33921207"
   },
   "reimportShowConfirmation": true
 }

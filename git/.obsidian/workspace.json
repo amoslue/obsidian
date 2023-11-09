@@ -11,8 +11,12 @@
             "id": "f58ccc02a8c34e50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "port",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术笔记/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术笔记/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术笔记/Linux.md"
+              }
             }
           }
         ]
@@ -141,8 +150,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "f58ccc02a8c34e50",
+  "active": "3394c96555e7fc91",
   "lastOpenFiles": [
+    "Readwise/Articles/America’s economic outperformance is a marvel to behold.md",
+    "Readwise/Articles/ByteByteGoHqsystem-design-101 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews..md",
     "daily/2023-11-06.md",
     "daily/2023-10-31.md",
     "Readwise/Articles/Rewriting Your Git History, Removing Files Permanently [Cheat Sheet Included].md",
@@ -170,8 +181,6 @@
     "Readwise/Articles/程序员如何把控自己的职业.md",
     "Readwise/Articles/金融 的本质是什么？.md",
     "quote/punchline.md",
-    "quote/quote.md",
-    "daily/2023-07-28.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
