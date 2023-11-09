@@ -17,7 +17,9 @@
 + 查找文件
 		- find / -type d -name nginx/config 2>/dev/null
     
-    
++ 看端口任务
+		- lsof 
+	
 + 杀死进程
 	    - kill PID
 	    - kill -9 PID
