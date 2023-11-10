@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Linux.md",
-                "mode": "source",
+                "file": "daily/2023-11-10.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kill",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "daily/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/Linux.md"
+                "file": "daily/2023-11-10.md"
               }
             }
           }
@@ -150,37 +149,39 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3394c96555e7fc91",
+  "active": "f58ccc02a8c34e50",
   "lastOpenFiles": [
-    "Readwise/Articles/America’s economic outperformance is a marvel to behold.md",
-    "Readwise/Articles/ByteByteGoHqsystem-design-101 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews..md",
-    "daily/2023-11-06.md",
+    "daily/2023-08-14.md",
+    "daily/2023-11-10.md",
+    "Readwise/Tweets/Tweets From 比特图灵.md",
+    "Readwise/Tweets/Tweets From SecurityTrybe.md",
+    "Readwise/Tweets/Tweets From 小互.md",
+    "quote/quote.md",
+    "weread/The Baron in the Trees/The Baron in the Trees.md",
+    "weread/The Baron in the Trees",
+    "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列).md",
+    "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)",
     "daily/2023-10-31.md",
-    "Readwise/Articles/Rewriting Your Git History, Removing Files Permanently [Cheat Sheet Included].md",
-    "daily/2023-09-16.md",
-    "daily/2023-09-23.md",
-    "daily/2023-10-01.md",
-    "daily/2023-10-12.md",
-    "daily/2023-10-17.md",
     "daily/2023-10-25.md",
-    "Untitled.md",
+    "daily/2023-10-17.md",
+    "daily/2023-10-12.md",
+    "daily/2023-10-01.md",
+    "daily/2023-09-23.md",
+    "daily/2023-09-16.md",
+    "daily/2023-09-02.md",
+    "daily/2023-08-31.md",
+    "daily/2023-08-27.md",
+    "daily/2023-08-24.md",
+    "daily/2023-08-22.md",
+    "daily/2023-08-11.md",
+    "daily/2023-08-07.md",
+    "daily/2023-08-05.md",
+    "daily/2023-07-31.md",
+    "daily/2023-07-28.md",
+    "技术笔记/Linux.md",
     "Untitled.canvas",
     "attachment/Pasted image 20231031132319.png",
-    "Readwise/Articles/Java Given a Set of N Tasks,the Ith Task Runs From Time Start[i] Through End[i]. Implemet a Task Scheduler Method That Finds the Minimum Number of Machines Required to Complete the Tasks..md",
     "attachment/Pasted image 20231025134147.png",
-    "weread/深入理解JVM字节码/深入理解JVM字节码.md",
-    "weread/卡夫卡小说全集（1-3卷）/卡夫卡小说全集（1-3卷）.md",
-    "weread/务虚笔记/务虚笔记.md",
-    "weread/Java并发编程之美/Java并发编程之美.md",
-    "Readwise/Tweets/Tweets From Phuslu.md",
-    "Readwise/Tweets/Tweets from Security Trybe.md",
-    "Readwise/Tweets/Tweets From Viking.md",
-    "Readwise/Articles/Why Cape Town Beats Johannesburg.md",
-    "Readwise/Articles/一篇故事秒懂 Floyd-Warshall 最短路算法.md",
-    "Readwise/Articles/理解 JavaScript 的 AsyncAwait.md",
-    "Readwise/Articles/程序员如何把控自己的职业.md",
-    "Readwise/Articles/金融 的本质是什么？.md",
-    "quote/punchline.md",
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
@@ -194,8 +195,6 @@
     "weread/死亡赋格：保罗·策兰诗精选",
     "attachment/Pasted image 20230830234928.png",
     "attachment/Pasted image 20230827160350.png",
-    "weread/黄景仁诗选（增订本）",
-    "weread/它们的性",
     "attachment/Pasted image 20230811001239.png",
     "attachment/Pasted image 20230810140006.png",
     "attachment/Pasted image 20230807130028.png"
