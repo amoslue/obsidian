@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "478f172e7b8b9cb7",
+        "id": "6a64484ac20c4fdc",
         "type": "tabs",
         "children": [
           {
-            "id": "9e14d69b9893ecde",
+            "id": "19b6fe76078a898b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ifconfig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,8 +142,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "9e14d69b9893ecde",
+  "active": "19b6fe76078a898b",
   "lastOpenFiles": [
+    "技术笔记/Linux.md",
     "daily/2023-11-10.md",
     "daily/2023-08-14.md",
     "Readwise/Tweets/Tweets From 比特图灵.md",
@@ -170,7 +172,6 @@
     "daily/2023-08-05.md",
     "daily/2023-07-31.md",
     "daily/2023-07-28.md",
-    "技术笔记/Linux.md",
     "Untitled.canvas",
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",
