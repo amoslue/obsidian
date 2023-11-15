@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a64484ac20c4fdc",
+        "id": "21c8aa4c0c5cdbbe",
         "type": "tabs",
         "children": [
           {
-            "id": "19b6fe76078a898b",
+            "id": "dd2d46b474661ed9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ifconfig",
+                "query": "堆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,12 +142,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "19b6fe76078a898b",
+  "active": "dd2d46b474661ed9",
   "lastOpenFiles": [
+    "daily/2023-10-31.md",
+    "技术笔记/Linux.md",
+    "Readwise/Articles/30-Days-Of-React02_Day_Introduction_to_React02_introduction_to_react.md at Master · Amoslue30-Days-of-React.md",
     "Readwise/Articles/最重要的是，在这里她又可以游泳了。在她的家乡，她从来不必考虑面包是否珍贵到可以用手拿取。在其他地方，她隐约听说，像她这样的老人只会被遗弃在树上活活饿死....md",
     "Readwise/Articles/EP85 Like LeetCode, but for Improving Debugging Skills.md",
     "Readwise/Articles/回归测试思路在设计中的应用.md",
-    "技术笔记/Linux.md",
     "daily/2023-11-10.md",
     "daily/2023-08-14.md",
     "Readwise/Tweets/Tweets From 比特图灵.md",
@@ -158,7 +160,6 @@
     "weread/The Baron in the Trees",
     "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列).md",
     "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)",
-    "daily/2023-10-31.md",
     "daily/2023-10-25.md",
     "daily/2023-10-17.md",
     "daily/2023-10-12.md",
@@ -171,7 +172,6 @@
     "daily/2023-08-24.md",
     "daily/2023-08-22.md",
     "daily/2023-08-11.md",
-    "daily/2023-08-07.md",
     "Untitled.canvas",
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",

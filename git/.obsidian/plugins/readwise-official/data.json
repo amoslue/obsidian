@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 11339647,
-  "currentSyncStatusID": 11355822,
+  "lastSavedStatusID": 11355822,
+  "currentSyncStatusID": 11374361,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -114,7 +114,8 @@
     "Readwise/Articles/ByteByteGoHqsystem-design-101 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews..md": "33921207",
     "Readwise/Articles/回归测试思路在设计中的应用.md": "34045251",
     "Readwise/Articles/EP85 Like LeetCode, but for Improving Debugging Skills.md": "34072759",
-    "Readwise/Articles/最重要的是，在这里她又可以游泳了。在她的家乡，她从来不必考虑面包是否珍贵到可以用手拿取。在其他地方，她隐约听说，像她这样的老人只会被遗弃在树上活活饿死....md": "34095214"
+    "Readwise/Articles/最重要的是，在这里她又可以游泳了。在她的家乡，她从来不必考虑面包是否珍贵到可以用手拿取。在其他地方，她隐约听说，像她这样的老人只会被遗弃在树上活活饿死....md": "34095214",
+    "Readwise/Articles/30-Days-Of-React02_Day_Introduction_to_React02_introduction_to_react.md at Master · Amoslue30-Days-of-React.md": "34141085"
   },
   "reimportShowConfirmation": true
 }
