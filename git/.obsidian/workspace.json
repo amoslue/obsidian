@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-11-15.md",
+                "file": "技术笔记/图论.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-11-15.md",
+                "file": "技术笔记/图论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-11-15.md",
+                "file": "技术笔记/图论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-11-15.md"
+                "file": "技术笔记/图论.md"
               }
             }
           }
@@ -152,7 +151,9 @@
   },
   "active": "dd2d46b474661ed9",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231115152338.png",
     "daily/2023-11-15.md",
+    "技术笔记/图论.md",
     "Readwise/Articles/30 Days of React Props.md",
     "daily/2023-10-31.md",
     "技术笔记/Linux.md",
@@ -178,8 +179,6 @@
     "daily/2023-09-16.md",
     "daily/2023-09-02.md",
     "daily/2023-08-31.md",
-    "daily/2023-08-27.md",
-    "daily/2023-08-24.md",
     "Untitled.canvas",
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",
