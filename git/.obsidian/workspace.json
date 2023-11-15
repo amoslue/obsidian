@@ -11,8 +11,12 @@
             "id": "dd2d46b474661ed9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-11-15.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "堆",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-11-15.md"
+              }
             }
           }
         ]
@@ -144,6 +152,8 @@
   },
   "active": "dd2d46b474661ed9",
   "lastOpenFiles": [
+    "daily/2023-11-15.md",
+    "Readwise/Articles/30 Days of React Props.md",
     "daily/2023-10-31.md",
     "技术笔记/Linux.md",
     "Readwise/Articles/30-Days-Of-React02_Day_Introduction_to_React02_introduction_to_react.md at Master · Amoslue30-Days-of-React.md",
@@ -170,8 +180,6 @@
     "daily/2023-08-31.md",
     "daily/2023-08-27.md",
     "daily/2023-08-24.md",
-    "daily/2023-08-22.md",
-    "daily/2023-08-11.md",
     "Untitled.canvas",
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",
