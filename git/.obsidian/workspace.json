@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "21c8aa4c0c5cdbbe",
+        "id": "72d429ac2be1f6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "dd2d46b474661ed9",
+            "id": "5ef42df8d1af1c13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术笔记/图论.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/图论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/图论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技术笔记/图论.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,11 +141,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "dd2d46b474661ed9",
+  "active": "5ef42df8d1af1c13",
   "lastOpenFiles": [
+    "技术笔记/图论.md",
     "attachment/Pasted image 20231115152338.png",
     "daily/2023-11-15.md",
-    "技术笔记/图论.md",
     "Readwise/Articles/30 Days of React Props.md",
     "daily/2023-10-31.md",
     "技术笔记/Linux.md",
@@ -196,7 +188,6 @@
     "attachment/Pasted image 20230830234928.png",
     "attachment/Pasted image 20230827160350.png",
     "attachment/Pasted image 20230811001239.png",
-    "attachment/Pasted image 20230810140006.png",
-    "attachment/Pasted image 20230807130028.png"
+    "attachment/Pasted image 20230810140006.png"
   ]
 }
