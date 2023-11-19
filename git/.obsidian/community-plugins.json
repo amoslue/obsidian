@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-weread-plugin",
   "readwise-official",
-  "notion-like-tables"
+  "notion-like-tables",
+  "cm-editor-syntax-highlight-obsidian"
 ]
