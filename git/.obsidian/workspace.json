@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72d429ac2be1f6f8",
+        "id": "a8d2d6c84e70af0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef42df8d1af1c13",
+            "id": "777760418e8f2faf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quote/quote.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#文学",
+                "query": "孤独",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quote/quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quote/quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "quote/quote.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,37 +142,38 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5ef42df8d1af1c13",
+  "active": "777760418e8f2faf",
   "lastOpenFiles": [
+    "weread/孤独的性：手淫文化史/孤独的性：手淫文化史.md",
+    "daily/2023-11-10.md",
+    "daily/2023-11-06.md",
+    "daily/2023-10-31.md",
+    "daily/2023-10-25.md",
+    "daily/2023-10-12.md",
+    "daily/2023-10-01.md",
     "daily/2023-09-23.md",
-    "quote/quote.md",
+    "daily/2023-09-16.md",
+    "daily/2023-09-02.md",
+    "daily/2023-08-31.md",
+    "daily/2023-08-27.md",
+    "daily/2023-08-24.md",
+    "daily/2023-08-22.md",
+    "daily/2023-08-14.md",
+    "daily/2023-08-11.md",
+    "daily/2023-08-07.md",
+    "daily/2023-08-05.md",
+    "daily/2023-07-31.md",
+    "daily/2023-07-28.md",
     "daily/2023-11-28.md",
+    "daily/2023-11-29.md",
+    "quote/quote.md",
     "Untitled.canvas",
     "Readwise/Tweets/Tweets From Viking.md",
     "Readwise/Tweets/Tweets From 比特图灵.md",
     "技术笔记/图论.md",
     "attachment/Pasted image 20231115152338.png",
-    "daily/2023-11-15.md",
-    "Readwise/Articles/30 Days of React Props.md",
-    "daily/2023-10-31.md",
-    "技术笔记/Linux.md",
-    "Readwise/Articles/30-Days-Of-React02_Day_Introduction_to_React02_introduction_to_react.md at Master · Amoslue30-Days-of-React.md",
-    "Readwise/Articles/最重要的是，在这里她又可以游泳了。在她的家乡，她从来不必考虑面包是否珍贵到可以用手拿取。在其他地方，她隐约听说，像她这样的老人只会被遗弃在树上活活饿死....md",
-    "Readwise/Articles/EP85 Like LeetCode, but for Improving Debugging Skills.md",
-    "Readwise/Articles/回归测试思路在设计中的应用.md",
-    "daily/2023-11-10.md",
-    "daily/2023-08-14.md",
-    "Readwise/Tweets/Tweets From SecurityTrybe.md",
-    "Readwise/Tweets/Tweets From 小互.md",
-    "weread/The Baron in the Trees/The Baron in the Trees.md",
     "weread/The Baron in the Trees",
-    "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列).md",
     "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)",
-    "daily/2023-10-25.md",
-    "daily/2023-10-17.md",
-    "daily/2023-10-12.md",
-    "daily/2023-10-01.md",
-    "daily/2023-09-16.md",
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",
     "attachment/Pasted image 20231002000120.png",
