@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a8d2d6c84e70af0e",
+        "id": "28082402ff7c4247",
         "type": "tabs",
         "children": [
           {
-            "id": "777760418e8f2faf",
+            "id": "0b98eda10368e24f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "孤独",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-12-03.md"
+              }
             }
           }
         ]
@@ -142,8 +149,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "777760418e8f2faf",
+  "active": "0b98eda10368e24f",
   "lastOpenFiles": [
+    "daily/2023-12-03.md",
+    "attachment/Pasted image 20231203232127.png",
     "weread/孤独的性：手淫文化史/孤独的性：手淫文化史.md",
     "daily/2023-11-10.md",
     "daily/2023-11-06.md",
@@ -169,8 +178,6 @@
     "quote/quote.md",
     "Untitled.canvas",
     "Readwise/Tweets/Tweets From Viking.md",
-    "Readwise/Tweets/Tweets From 比特图灵.md",
-    "技术笔记/图论.md",
     "attachment/Pasted image 20231115152338.png",
     "weread/The Baron in the Trees",
     "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)",
@@ -189,7 +196,6 @@
     "weread/死亡赋格：保罗·策兰诗精选",
     "attachment/Pasted image 20230830234928.png",
     "attachment/Pasted image 20230827160350.png",
-    "attachment/Pasted image 20230811001239.png",
-    "attachment/Pasted image 20230810140006.png"
+    "attachment/Pasted image 20230811001239.png"
   ]
 }
