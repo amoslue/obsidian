@@ -11,12 +11,8 @@
             "id": "3a2421f57d7411c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weread/电影批评/电影批评.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weread/电影批评/电影批评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weread/电影批评/电影批评.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weread/电影批评/电影批评.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,37 +143,36 @@
   },
   "active": "3a2421f57d7411c3",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.loom",
+    "技术笔记/git.md",
+    "技术笔记/Linux.md",
+    "技术笔记/vim.md",
+    "技术笔记/图论.md",
+    "weread/青年斯大林/青年斯大林.md",
+    "weread/贾想Ⅰ：贾樟柯电影手记（1996—2008）/贾想Ⅰ：贾樟柯电影手记（1996—2008）.md",
+    "weread/艾米莉狄金森精选诗集/艾米莉狄金森精选诗集.md",
+    "weread/职场写作全书：完全写作指南2/职场写作全书：完全写作指南2.md",
+    "weread/聊斋志异详注新评：全4册/聊斋志异详注新评：全4册.md",
+    "weread/美国种族简史/美国种族简史.md",
+    "weread/置身事内：中国政府与经济发展/置身事内：中国政府与经济发展.md",
+    "weread/网络是怎样连接的/网络是怎样连接的.md",
+    "weread/算法（第4版）/算法（第4版）.md",
+    "weread/编程之美/编程之美.md",
+    "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md",
+    "weread/经济学的思维方式（原书第13版）/经济学的思维方式（原书第13版）.md",
+    "weread/经济学原理（第7版）（典藏版）/经济学原理（第7版）（典藏版）.md",
+    "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
+    "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）.md",
+    "weread/电影批评/电影批评.md",
     "weread/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）.md",
     "weread/王小波：革命时期的爱情（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十周年精装纪念版！）/王小波：革命时期的爱情（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十周年精装纪念版！）.md",
     "weread/王小波：我的阴阳两界（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十一周年精装纪念版！自我对话式风格小说！）/王小波：我的阴阳两界（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十一周年精装纪念版！自我对话式风格小说！）.md",
     "weread/献给阿尔吉侬的花束/献给阿尔吉侬的花束.md",
     "weread/爱伦·坡短篇小说集（读客三个圈经典文库）/爱伦·坡短篇小说集（读客三个圈经典文库）.md",
-    "weread/燃烧的原野（鲁尔福三部曲）/燃烧的原野（鲁尔福三部曲）.md",
-    "weread/深入理解JVM字节码/深入理解JVM字节码.md",
-    "weread/深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）/深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）.md",
-    "weread/泰戈尔英文诗全集Ⅰ：汉英对照/泰戈尔英文诗全集Ⅰ：汉英对照.md",
-    "weread/没有人给他写信的上校/没有人给他写信的上校.md",
-    "weread/沟通的艺术/沟通的艺术.md",
-    "weread/死亡赋格：保罗·策兰诗精选/死亡赋格：保罗·策兰诗精选.md",
-    "weread/樱桃的滋味：阿巴斯谈电影/樱桃的滋味：阿巴斯谈电影.md",
-    "weread/树犹如此/树犹如此.md",
-    "weread/明日传奇/明日传奇.md",
-    "weread/昌耀的诗/昌耀的诗.md",
-    "weread/无限可能：快速唤醒你的学习脑/无限可能：快速唤醒你的学习脑.md",
-    "weread/撒旦探戈/撒旦探戈.md",
-    "weread/我的世界观/我的世界观.md",
-    "weread/我曾这样寂寞生活（精装版）/我曾这样寂寞生活（精装版）.md",
-    "weread/我心深处/我心深处.md",
-    "weread/我可能学的是假英语：英语、中式英语和偏误英语/我可能学的是假英语：英语、中式英语和偏误英语.md",
-    "weread/怪诞故事集/怪诞故事集.md",
-    "weread/彩画集：兰波散文诗全集（译文经典）/彩画集：兰波散文诗全集（译文经典）.md",
-    "weread/弗兰德公路/弗兰德公路.md",
-    "weread/幸福之路/幸福之路.md",
-    "Untitled.loom",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
-    "Untitled.canvas",
     "attachment/Pasted image 20231115152338.png",
     "weread/The Baron in the Trees",
     "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)",
