@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "28082402ff7c4247",
+        "id": "6e2947908bc5c0e7",
         "type": "tabs",
         "children": [
           {
-            "id": "0b98eda10368e24f",
+            "id": "3a2421f57d7411c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-12-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2023-12-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,7 +141,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0b98eda10368e24f",
+  "active": "3a2421f57d7411c3",
   "lastOpenFiles": [
     "daily/2023-12-03.md",
     "attachment/Pasted image 20231203232127.png",
