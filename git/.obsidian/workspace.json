@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lsof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,7 +142,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5829e8d9698b034a",
+  "active": "3394c96555e7fc91",
   "lastOpenFiles": [
     "daily/2023-12-07.md",
     "attachment/Pasted image 20231207123240.png",
