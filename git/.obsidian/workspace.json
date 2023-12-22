@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "feed26df594f57b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsof",
+                "query": "reminder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,6 +131,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "9b12dab0df5ef798",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -142,12 +160,15 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3394c96555e7fc91",
+  "active": "feed26df594f57b1",
   "lastOpenFiles": [
+    "Untitled.loom",
+    "Untitled 1.loom",
+    "weread/坐在你身边看云（巴别塔诗典系列）/坐在你身边看云（巴别塔诗典系列）.md",
+    "weread/坐在你身边看云（巴别塔诗典系列）",
     "daily/2023-12-07.md",
     "attachment/Pasted image 20231207123240.png",
     "Untitled.canvas",
-    "Untitled.loom",
     "技术笔记/git.md",
     "技术笔记/Linux.md",
     "技术笔记/vim.md",
@@ -171,7 +192,6 @@
     "weread/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）.md",
     "weread/王小波：革命时期的爱情（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十周年精装纪念版！）/王小波：革命时期的爱情（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十周年精装纪念版！）.md",
     "weread/王小波：我的阴阳两界（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十一周年精装纪念版！自我对话式风格小说！）/王小波：我的阴阳两界（李银河独家授权，并亲自校订全稿。王小波经典代表作，逝世二十一周年精装纪念版！自我对话式风格小说！）.md",
-    "weread/献给阿尔吉侬的花束/献给阿尔吉侬的花束.md",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
@@ -186,8 +206,6 @@
     "weread/The Remains of the Day",
     "weread/制造音乐",
     "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）",
-    "weread/契诃夫短篇小说选",
-    "weread/Test-Driven Java Development（Second Edition）",
     "attachment/Pasted image 20230830234928.png",
     "attachment/Pasted image 20230827160350.png"
   ]
