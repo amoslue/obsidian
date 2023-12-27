@@ -1,5 +1,5 @@
 {
-  "scanned": true,
+  "scanned": false,
   "reminders": {},
   "debug": false,
   "settings": {
@@ -16,7 +16,7 @@
     "enableTasksPluginReminderFormat": false,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
-    "enableKanbanPluginReminderFormat": false,
+    "enableKanbanPluginReminderFormat": true,
     "editDetectionSec": 10,
     "reminderCheckIntervalSec": 5
   }

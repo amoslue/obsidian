@@ -19,9 +19,11 @@
             "id": "feed26df594f57b1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "daily/2023-12-22.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2023-12-22.md"
+              }
             }
           },
           {
@@ -162,6 +168,7 @@
   },
   "active": "feed26df594f57b1",
   "lastOpenFiles": [
+    "daily/2023-12-22.md",
     "Untitled.loom",
     "Untitled 1.loom",
     "weread/坐在你身边看云（巴别塔诗典系列）/坐在你身边看云（巴别塔诗典系列）.md",
