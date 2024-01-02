@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60b6e39d7765bc50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5829e8d9698b034a",
+  "active": "60b6e39d7765bc50",
   "lastOpenFiles": [
     "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "daily/2023-12-28.md",
