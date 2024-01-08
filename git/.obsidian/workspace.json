@@ -11,8 +11,12 @@
             "id": "cf8d9f4c95e1d48e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "interview/Code.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "interview/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "interview/Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "interview/Code.md"
+              }
             }
           },
           {
@@ -152,6 +159,12 @@
   },
   "active": "cf8d9f4c95e1d48e",
   "lastOpenFiles": [
+    "daily/2023-11-10.md",
+    "interview/Code.md",
+    "interview/BQ.md",
+    "Untitled",
+    "interview",
+    "Readwise/Articles/📝【LeetCode】一个模板通杀所有「二分查找」问题.md",
     "daily/2023-12-28.md",
     "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "daily/2023-12-22.md",
@@ -179,10 +192,6 @@
     "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md",
     "weread/经济学的思维方式（原书第13版）/经济学的思维方式（原书第13版）.md",
     "weread/经济学原理（第7版）（典藏版）/经济学原理（第7版）（典藏版）.md",
-    "weread/第三帝国三部曲：第三帝国的到来（全集）/第三帝国三部曲：第三帝国的到来（全集）.md",
-    "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）.md",
-    "weread/电影批评/电影批评.md",
-    "weread/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）/王小波真正大全集（15册，李银河独家授权，并亲自校订全稿。王小波逝世二十周年精装纪念版！特别收入从未面市的手稿及照片！）.md",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
@@ -195,8 +204,6 @@
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
     "weread/The Remains of the Day",
-    "weread/制造音乐",
-    "weread/理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）",
     "attachment/Pasted image 20230830234928.png",
     "attachment/Pasted image 20230827160350.png"
   ]
