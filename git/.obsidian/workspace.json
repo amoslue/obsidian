@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cfd9724b3e904190",
+        "id": "06e97e0d70325d71",
         "type": "tabs",
         "children": [
           {
-            "id": "5829e8d9698b034a",
+            "id": "cf8d9f4c95e1d48e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-12-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2023-12-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5829e8d9698b034a",
+  "active": "cf8d9f4c95e1d48e",
   "lastOpenFiles": [
-    "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "daily/2023-12-28.md",
+    "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "daily/2023-12-22.md",
     "Untitled.loom",
     "Untitled 1.loom",
