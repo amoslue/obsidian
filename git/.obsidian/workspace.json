@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06e97e0d70325d71",
+        "id": "0dc2e92eeb9404b4",
         "type": "tabs",
         "children": [
           {
-            "id": "cf8d9f4c95e1d48e",
+            "id": "6192609210a21e6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interview/Code.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "二分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "interview/Code.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +150,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "cf8d9f4c95e1d48e",
+  "active": "6192609210a21e6a",
   "lastOpenFiles": [
     "daily/2023-11-10.md",
     "interview/Code.md",
