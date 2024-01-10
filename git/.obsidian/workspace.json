@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/BQ.md",
-                "mode": "source",
+                "file": "daily/2024-01-10.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/BQ.md",
+                "file": "daily/2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/BQ.md",
+                "file": "daily/2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/BQ.md"
+                "file": "daily/2024-01-10.md"
               }
             }
           },
@@ -159,9 +160,11 @@
   },
   "active": "6192609210a21e6a",
   "lastOpenFiles": [
+    "daily/2023-10-31.md",
+    "daily/2024-01-10.md",
+    "interview/BQ.md",
     "daily/2023-11-10.md",
     "interview/Code.md",
-    "interview/BQ.md",
     "Untitled",
     "interview",
     "Readwise/Articles/📝【LeetCode】一个模板通杀所有「二分查找」问题.md",
@@ -190,8 +193,6 @@
     "weread/算法（第4版）/算法（第4版）.md",
     "weread/编程之美/编程之美.md",
     "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md",
-    "weread/经济学的思维方式（原书第13版）/经济学的思维方式（原书第13版）.md",
-    "weread/经济学原理（第7版）（典藏版）/经济学原理（第7版）（典藏版）.md",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
