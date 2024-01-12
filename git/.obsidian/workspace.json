@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc2e92eeb9404b4",
+        "id": "1a4e38fad9d0a6db",
         "type": "tabs",
         "children": [
           {
-            "id": "6192609210a21e6a",
+            "id": "65af309514f50b8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-01-10.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2024-01-10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "6192609210a21e6a",
+  "active": "3394c96555e7fc91",
   "lastOpenFiles": [
-    "daily/2023-10-31.md",
     "daily/2024-01-10.md",
+    "daily/2023-10-31.md",
     "interview/BQ.md",
     "daily/2023-11-10.md",
     "interview/Code.md",
