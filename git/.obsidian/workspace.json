@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/Code.md",
+                "file": "interview/tech.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lru",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/Code.md",
+                "file": "interview/tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/Code.md",
+                "file": "interview/tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/Code.md"
+                "file": "interview/tech.md"
               }
             }
           },
@@ -160,14 +159,15 @@
   },
   "active": "65af309514f50b8b",
   "lastOpenFiles": [
-    "daily/2024-01-10.md",
-    "daily/2023-10-31.md",
     "interview/BQ.md",
-    "daily/2023-11-10.md",
+    "interview/tech.md",
     "interview/Code.md",
+    "daily/2023-10-31.md",
+    "daily/2023-11-10.md",
+    "Readwise/Articles/📝【LeetCode】一个模板通杀所有「二分查找」问题.md",
+    "daily/2024-01-10.md",
     "Untitled",
     "interview",
-    "Readwise/Articles/📝【LeetCode】一个模板通杀所有「二分查找」问题.md",
     "daily/2023-12-28.md",
     "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "daily/2023-12-22.md",
@@ -192,7 +192,6 @@
     "weread/网络是怎样连接的/网络是怎样连接的.md",
     "weread/算法（第4版）/算法（第4版）.md",
     "weread/编程之美/编程之美.md",
-    "weread/维特根斯坦传：天才之为责任/维特根斯坦传：天才之为责任.md",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
