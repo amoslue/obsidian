@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/tech.md",
+                "file": "interview/BQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/tech.md",
+                "file": "interview/BQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/tech.md",
+                "file": "interview/BQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/tech.md"
+                "file": "interview/BQ.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "65af309514f50b8b",
   "lastOpenFiles": [
-    "interview/BQ.md",
     "interview/tech.md",
+    "interview/BQ.md",
     "interview/Code.md",
     "daily/2023-10-31.md",
     "daily/2023-11-10.md",
