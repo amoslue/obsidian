@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/BQ.md",
+                "file": "daily/2024-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/BQ.md",
+                "file": "daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/BQ.md",
+                "file": "daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/BQ.md"
+                "file": "daily/2024-01-22.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "65af309514f50b8b",
   "lastOpenFiles": [
-    "interview/tech.md",
     "interview/BQ.md",
+    "daily/2024-01-22.md",
+    "interview/tech.md",
     "interview/Code.md",
     "daily/2023-10-31.md",
     "daily/2023-11-10.md",
@@ -191,7 +192,6 @@
     "weread/置身事内：中国政府与经济发展/置身事内：中国政府与经济发展.md",
     "weread/网络是怎样连接的/网络是怎样连接的.md",
     "weread/算法（第4版）/算法（第4版）.md",
-    "weread/编程之美/编程之美.md",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
