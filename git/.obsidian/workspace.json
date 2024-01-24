@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4e38fad9d0a6db",
+        "id": "d6076efc4dd2f419",
         "type": "tabs",
         "children": [
           {
-            "id": "65af309514f50b8b",
+            "id": "5a374f389bf2424d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "65af309514f50b8b",
+  "active": "5a374f389bf2424d",
   "lastOpenFiles": [
-    "interview/BQ.md",
     "daily/2024-01-22.md",
+    "interview/BQ.md",
     "interview/tech.md",
     "interview/Code.md",
     "daily/2023-10-31.md",
