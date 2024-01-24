@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 12433818,
-  "currentSyncStatusID": 12485108,
+  "lastSavedStatusID": 12485108,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -116,7 +116,8 @@
     "Readwise/Articles/EP85 Like LeetCode, but for Improving Debugging Skills.md": "34072759",
     "Readwise/Articles/最重要的是，在这里她又可以游泳了。在她的家乡，她从来不必考虑面包是否珍贵到可以用手拿取。在其他地方，她隐约听说，像她这样的老人只会被遗弃在树上活活饿死....md": "34095214",
     "Readwise/Articles/30-Days-Of-React02_Day_Introduction_to_React02_introduction_to_react.md at Master · Amoslue30-Days-of-React.md": "34141085",
-    "Readwise/Articles/30 Days of React Props.md": "34190242"
+    "Readwise/Articles/30 Days of React Props.md": "34190242",
+    "Readwise/Articles/用好 F12，一键开启浏览器的「上帝模式」.md": "36970008"
   },
   "reimportShowConfirmation": true
 }
