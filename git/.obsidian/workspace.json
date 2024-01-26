@@ -11,8 +11,12 @@
             "id": "6d2925605c09a848",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-01-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2024-01-26.md"
+              }
             }
           },
           {
@@ -151,11 +159,14 @@
   },
   "active": "6d2925605c09a848",
   "lastOpenFiles": [
+    "Readwise/Articles/Java为什么不支持泛型数组？.md",
+    "daily/2024-01-26.md",
+    "interview/tech.md",
+    "Readwise/Articles/What Donald Trump Can Learn From the Big Mac Index.md",
     "daily/2024-01-24.md",
     "daily/2024-01-22.md",
     "Readwise/Articles/用好 F12，一键开启浏览器的「上帝模式」.md",
     "interview/BQ.md",
-    "interview/tech.md",
     "interview/Code.md",
     "daily/2023-10-31.md",
     "daily/2023-11-10.md",
@@ -181,9 +192,6 @@
     "weread/贾想Ⅰ：贾樟柯电影手记（1996—2008）/贾想Ⅰ：贾樟柯电影手记（1996—2008）.md",
     "weread/艾米莉狄金森精选诗集/艾米莉狄金森精选诗集.md",
     "weread/职场写作全书：完全写作指南2/职场写作全书：完全写作指南2.md",
-    "weread/聊斋志异详注新评：全4册/聊斋志异详注新评：全4册.md",
-    "weread/美国种族简史/美国种族简史.md",
-    "weread/置身事内：中国政府与经济发展/置身事内：中国政府与经济发展.md",
     "weread/Look Homeward, Angel",
     "weread/The Economics of Money, Banking and Financial Markets, 13th Global Edition (Frederic Mishkin) (Z-Library)",
     "attachment/Pasted image 20231203232127.png",
