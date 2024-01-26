@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6076efc4dd2f419",
+        "id": "2855aff9104dc084",
         "type": "tabs",
         "children": [
           {
-            "id": "5a374f389bf2424d",
+            "id": "6d2925605c09a848",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-01-24.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2024-01-24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "5a374f389bf2424d",
+  "active": "6d2925605c09a848",
   "lastOpenFiles": [
-    "daily/2024-01-22.md",
     "daily/2024-01-24.md",
+    "daily/2024-01-22.md",
     "Readwise/Articles/用好 F12，一键开启浏览器的「上帝模式」.md",
     "interview/BQ.md",
     "interview/tech.md",
