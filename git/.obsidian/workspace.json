@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-26.md",
+                "file": "daily/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-26.md",
+                "file": "daily/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-26.md",
+                "file": "daily/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-26.md"
+                "file": "daily/2024-01-30.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "6d2925605c09a848",
   "lastOpenFiles": [
+    "daily/2024-01-26.md",
+    "daily/2024-01-30.md",
+    "Readwise/Articles/A New Diplomatic Struggle Is Unfolding Over Taiwan.md",
     "Readwise/Tweets/Tweets From 比特图灵.md",
     "quote/punchline.md",
     "quote/quote.md",
@@ -179,12 +182,9 @@
     "daily/2024-01-10.md",
     "daily/2024-01-22.md",
     "daily/2024-01-24.md",
-    "daily/2024-01-26.md",
     "Readwise/Articles/Java为什么不支持泛型数组？.md",
     "Readwise/Articles/What Donald Trump Can Learn From the Big Mac Index.md",
     "Readwise/Articles/用好 F12，一键开启浏览器的「上帝模式」.md",
-    "daily/2023-10-31.md",
-    "Readwise/Articles/📝【LeetCode】一个模板通杀所有「二分查找」问题.md",
     "Untitled",
     "interview",
     "Untitled.loom",
