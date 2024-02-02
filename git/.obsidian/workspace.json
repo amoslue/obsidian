@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2855aff9104dc084",
+        "id": "eb3903bbf090013f",
         "type": "tabs",
         "children": [
           {
-            "id": "6d2925605c09a848",
+            "id": "6c10301828f0add2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2024-01-30.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "6d2925605c09a848",
+  "active": "6c10301828f0add2",
   "lastOpenFiles": [
-    "daily/2024-01-26.md",
     "daily/2024-01-30.md",
+    "daily/2024-01-26.md",
     "Readwise/Articles/A New Diplomatic Struggle Is Unfolding Over Taiwan.md",
     "Readwise/Tweets/Tweets From 比特图灵.md",
     "quote/punchline.md",
