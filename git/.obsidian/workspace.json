@@ -11,8 +11,12 @@
             "id": "6c10301828f0add2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-02-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2024-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2024-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2024-02-02.md"
+              }
             }
           },
           {
@@ -151,6 +159,8 @@
   },
   "active": "6c10301828f0add2",
   "lastOpenFiles": [
+    "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md",
+    "daily/2024-02-02.md",
     "daily/2024-01-30.md",
     "daily/2024-01-26.md",
     "Readwise/Articles/A New Diplomatic Struggle Is Unfolding Over Taiwan.md",
@@ -175,8 +185,6 @@
     "daily/2024-01-22.md",
     "daily/2024-01-24.md",
     "Readwise/Articles/Java为什么不支持泛型数组？.md",
-    "Readwise/Articles/What Donald Trump Can Learn From the Big Mac Index.md",
-    "Readwise/Articles/用好 F12，一键开启浏览器的「上帝模式」.md",
     "Untitled",
     "interview",
     "Untitled.loom",
