@@ -11,8 +11,12 @@
             "id": "30e7c7b9d91ef3d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-02-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2024-02-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2024-02-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2024-02-03.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
   },
   "active": "30e7c7b9d91ef3d8",
   "lastOpenFiles": [
+    "daily/2024-02-03.md",
     "daily/2024-02-02.md",
     "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md",
     "daily/2024-01-30.md",
@@ -176,7 +185,6 @@
     "daily/2024-01-10.md",
     "daily/2024-01-22.md",
     "daily/2024-01-24.md",
-    "Readwise/Articles/Java为什么不支持泛型数组？.md",
     "Untitled",
     "interview",
     "Untitled.loom",
