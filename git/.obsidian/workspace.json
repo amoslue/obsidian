@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-12.md",
+                "file": "daily/2024-02-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-12.md",
+                "file": "daily/2024-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-12.md",
+                "file": "daily/2024-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-12.md"
+                "file": "daily/2024-02-17.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "08fe577bad1d0854",
   "lastOpenFiles": [
-    "attachment/Pasted image 20240212005705.png",
     "daily/2024-02-12.md",
+    "daily/2024-02-17.md",
+    "Readwise/Articles/ChatGPT.md",
+    "attachment/Pasted image 20240212005705.png",
     "daily/2024-02-03.md",
     "daily/2024-02-02.md",
     "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md",
@@ -184,7 +186,6 @@
     "daily/2023-12-07.md",
     "daily/2023-12-22.md",
     "daily/2023-12-28.md",
-    "daily/2024-01-10.md",
     "Untitled",
     "interview",
     "Untitled.loom",
@@ -204,7 +205,6 @@
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
     "weread/The Remains of the Day",
-    "attachment/Pasted image 20230830234928.png",
-    "attachment/Pasted image 20230827160350.png"
+    "attachment/Pasted image 20230830234928.png"
   ]
 }

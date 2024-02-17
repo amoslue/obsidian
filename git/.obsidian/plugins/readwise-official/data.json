@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 12774934,
+  "lastSavedStatusID": 12863490,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -120,7 +120,8 @@
     "Readwise/Articles/用好 F12，一键开启浏览器的「上帝模式」.md": "36970008",
     "Readwise/Articles/What Donald Trump Can Learn From the Big Mac Index.md": "37083245",
     "Readwise/Articles/A New Diplomatic Struggle Is Unfolding Over Taiwan.md": "37132658",
-    "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md": "37264678"
+    "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md": "37264678",
+    "Readwise/Articles/ChatGPT.md": "37657421"
   },
   "reimportShowConfirmation": true
 }
