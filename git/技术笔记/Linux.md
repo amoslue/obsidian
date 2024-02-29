@@ -30,4 +30,7 @@ ps&stat?
 ![[Pasted image 20240229161231.png]]
 
 chmod?
+l: link
+d: directory
+-: regular file
 ![[Pasted image 20240229161338.png]]
