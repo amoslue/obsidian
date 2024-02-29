@@ -38,3 +38,6 @@ d: directory
 
 TTL is actually used as a hop count limit. 
 traceroute used TTL
+
+find:
+![[Pasted image 20240229170812.png]]
