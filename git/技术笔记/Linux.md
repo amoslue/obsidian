@@ -24,3 +24,10 @@
 	    - kill PID
 	    - kill -9 PID
 	    - killall pName
+
+
+ps&stat?
+![[Pasted image 20240229161231.png]]
+
+chmod?
+![[Pasted image 20240229161338.png]]

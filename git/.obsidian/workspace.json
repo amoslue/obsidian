@@ -11,8 +11,12 @@
             "id": "521edebb80a7fe0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chmod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术笔记/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术笔记/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术笔记/Linux.md"
+              }
             }
           },
           {
@@ -151,6 +159,9 @@
   },
   "active": "521edebb80a7fe0a",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240229161338.png",
+    "attachment/Pasted image 20240229161231.png",
+    "Readwise/Articles/10 Examples of Grep Command in UNIX and Linux.md",
     "daily/2024-02-17.md",
     "daily/2024-02-12.md",
     "Readwise/Articles/ChatGPT.md",
@@ -176,8 +187,6 @@
     "daily/2023-11-29.md",
     "daily/2023-12-03.md",
     "daily/2023-12-07.md",
-    "daily/2023-12-22.md",
-    "daily/2023-12-28.md",
     "Untitled",
     "interview",
     "Untitled.loom",
@@ -196,7 +205,6 @@
     "attachment/Pasted image 20231002000120.png",
     "attachment/Pasted image 20231002000109.png",
     "attachment/Pasted image 20231001231854.png",
-    "weread/The Remains of the Day",
-    "attachment/Pasted image 20230830234928.png"
+    "weread/The Remains of the Day"
   ]
 }

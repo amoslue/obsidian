@@ -1,6 +1,6 @@
 # 10 Examples of Grep Command in UNIX and Linux
 
-![rw-book-cover](https://1.bp.blogspot.com/-Bd6UkevpE9o/X5GNNIc9iwI/AAAAAAAAj6k/ciCEemUfk4YMbLbCRdIiX7DZkUTzdskOQCLcBGAsYHQ/w1200-h630-p-k-no-nu/grep%2Bcommand%2Bexample%2Bin%2BLinux.png)
+![rw-book-cover](https://1.bp.blogspot.com/-Bd6UkevpE9o/X5GNNIc9iwI/AAAAAAAAj6k/ciCEemUfk4YMbLbCRdIiX7DZkUTzdskOQCLcBGAsYHQ/w1200-h630-p-k-no-nu/grep%2Bcommand%2Bexample%2Bin%Linux.png)
 
 ## Metadata
 - Author: [[regular expression]]
