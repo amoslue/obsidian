@@ -34,3 +34,7 @@ l: link
 d: directory
 -: regular file
 ![[Pasted image 20240229161338.png]]
+
+
+TTL is actually used as a hop count limit. 
+traceroute used TTL
