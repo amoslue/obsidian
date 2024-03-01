@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 13072998,
+  "lastSavedStatusID": 13095172,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -121,7 +121,8 @@
     "Readwise/Articles/What Donald Trump Can Learn From the Big Mac Index.md": "37083245",
     "Readwise/Articles/A New Diplomatic Struggle Is Unfolding Over Taiwan.md": "37132658",
     "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md": "37264678",
-    "Readwise/Articles/ChatGPT.md": "37657421"
+    "Readwise/Articles/ChatGPT.md": "37657421",
+    "Readwise/Articles/【网络技术】p2p技术原理浅析.md": "38282004"
   },
   "reimportShowConfirmation": true
 }

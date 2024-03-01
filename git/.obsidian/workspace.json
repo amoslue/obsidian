@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c9c2bd1065806f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +168,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "521edebb80a7fe0a",
+  "active": "0c9c2bd1065806f1",
   "lastOpenFiles": [
+    "Readwise/Articles/【网络技术】p2p技术原理浅析.md",
     "attachment/Pasted image 20240229170812.png",
     "attachment/Pasted image 20240229161338.png",
     "attachment/Pasted image 20240229161231.png",
@@ -204,7 +216,6 @@
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",
     "attachment/Pasted image 20231002000120.png",
-    "attachment/Pasted image 20231002000109.png",
     "weread/The Remains of the Day"
   ]
 }
