@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "技术笔记/network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "技术笔记/network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/Linux.md",
+                "file": "技术笔记/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/Linux.md"
+                "file": "技术笔记/network.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "521edebb80a7fe0a",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240308110252.png",
+    "技术笔记/Linux.md",
+    "技术笔记/network.md",
+    "Readwise/Articles/Crunch Time for Xi Jinping at China’s Annual Political Meeting.md",
     "Readwise/Articles/【网络技术】p2p技术原理浅析.md",
     "attachment/Pasted image 20240229170812.png",
     "attachment/Pasted image 20240229161338.png",
@@ -185,10 +189,6 @@
     "daily/2023-08-05.md",
     "daily/2023-11-10.md",
     "daily/2023-11-15.md",
-    "daily/2023-11-28.md",
-    "daily/2023-11-29.md",
-    "daily/2023-12-03.md",
-    "daily/2023-12-07.md",
     "Untitled",
     "interview",
     "Untitled.loom",
