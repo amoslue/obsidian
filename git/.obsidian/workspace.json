@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c9c2bd1065806f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +157,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0c9c2bd1065806f1",
+  "active": "521edebb80a7fe0a",
   "lastOpenFiles": [
     "Readwise/Articles/【网络技术】p2p技术原理浅析.md",
     "attachment/Pasted image 20240229170812.png",
