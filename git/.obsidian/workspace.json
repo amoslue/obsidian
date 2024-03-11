@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "69d74dc6c967b622",
+        "id": "b7fdc519b449e45e",
         "type": "tabs",
         "children": [
           {
-            "id": "521edebb80a7fe0a",
+            "id": "0747b593db391af3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术笔记/network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技术笔记/network.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,11 +149,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "521edebb80a7fe0a",
+  "active": "0747b593db391af3",
   "lastOpenFiles": [
+    "技术笔记/network.md",
     "attachment/Pasted image 20240308110252.png",
     "技术笔记/Linux.md",
-    "技术笔记/network.md",
     "Readwise/Articles/Crunch Time for Xi Jinping at China’s Annual Political Meeting.md",
     "Readwise/Articles/【网络技术】p2p技术原理浅析.md",
     "attachment/Pasted image 20240229170812.png",
@@ -204,7 +196,6 @@
     "weread/马尔克斯：梦中的欢快葬礼和十二个异乡故事 (马尔克斯作品系列)",
     "attachment/Pasted image 20231031132319.png",
     "attachment/Pasted image 20231025134147.png",
-    "attachment/Pasted image 20231002000120.png",
     "weread/The Remains of the Day"
   ]
 }
