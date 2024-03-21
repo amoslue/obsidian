@@ -11,8 +11,12 @@
             "id": "66f15f208ca8b036",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/图论.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术笔记/图论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术笔记/图论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术笔记/图论.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
   },
   "active": "66f15f208ca8b036",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240321134013.png",
     "技术笔记/network.md",
     "attachment/Pasted image 20240312013807.png",
     "attachment/Pasted image 20240312013751.png",
