@@ -19,3 +19,9 @@ what is #OSI model?
     
 
 Each of these packet types plays a crucial role in the functioning of OSPF, facilitating the dynamic discovery of neighbors, the exchange of routing information, and the maintenance of a consistent view of the network topology among all routers in an OSPF-enabled network.
+
+#TCP 
+三次握手
+![[Pasted image 20240321214604.png]]
+四次挥手
+![[Pasted image 20240321214105.png]]![[Pasted image 20240321214156.png]]
