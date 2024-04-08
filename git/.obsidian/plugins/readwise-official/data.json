@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 13416258,
-  "currentSyncStatusID": 0,
+  "lastSavedStatusID": 13541559,
+  "currentSyncStatusID": 13710118,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -123,7 +123,8 @@
     "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md": "37264678",
     "Readwise/Articles/ChatGPT.md": "37657421",
     "Readwise/Articles/【网络技术】p2p技术原理浅析.md": "38282004",
-    "Readwise/Articles/Crunch Time for Xi Jinping at China’s Annual Political Meeting.md": "38361659"
+    "Readwise/Articles/Crunch Time for Xi Jinping at China’s Annual Political Meeting.md": "38361659",
+    "Readwise/Articles/Xi Jinping’s Misguided Plan to Escape Economic Stagnation.md": "39346800"
   },
   "reimportShowConfirmation": true
 }

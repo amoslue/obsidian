@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/图论.md",
-                "mode": "source",
+                "file": "Readwise/Articles/最牛B的Linux Shell命令.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python 服务器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/图论.md",
+                "file": "Readwise/Articles/最牛B的Linux Shell命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/图论.md",
+                "file": "Readwise/Articles/最牛B的Linux Shell命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/图论.md"
+                "file": "Readwise/Articles/最牛B的Linux Shell命令.md"
               }
             }
           },
@@ -157,15 +158,18 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "66f15f208ca8b036",
+  "active": "3394c96555e7fc91",
   "lastOpenFiles": [
+    "技术笔记/vim.md",
+    "Readwise/Tweets/Tweets From Phuslu.md",
+    "weread/Vim实用技巧/Vim实用技巧.md",
     "技术笔记/Linux.md",
+    "技术笔记/network.md",
+    "技术笔记/图论.md",
     "技术笔记/git.md",
     "Readwise/Articles/最牛B的Linux Shell命令.md",
     "weread/图解HTTP/图解HTTP.md",
     "Readwise/Articles/一个IP账号，为啥通过路由器就可供多人同时使用？.md",
-    "技术笔记/network.md",
-    "技术笔记/图论.md",
     "attachment/Pasted image 20240321214604.png",
     "attachment/Pasted image 20240321214156.png",
     "attachment/Pasted image 20240321214105.png",
@@ -192,9 +196,6 @@
     "quote/punchline.md",
     "quote/quote.md",
     "interview/BQ.md",
-    "interview/tech.md",
-    "interview/Code.md",
-    "daily/2023-07-28.md",
     "Untitled",
     "interview",
     "Untitled.loom",
