@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Articles/最牛B的Linux Shell命令.md",
+                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python 服务器",
+                "query": "destroy me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/最牛B的Linux Shell命令.md",
+                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/最牛B的Linux Shell命令.md",
+                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/最牛B的Linux Shell命令.md"
+                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3394c96555e7fc91",
+  "active": "66f15f208ca8b036",
   "lastOpenFiles": [
+    "Readwise/Articles/最牛B的Linux Shell命令.md",
+    "Readwise/Articles/Xi Jinping’s Misguided Plan to Escape Economic Stagnation.md",
     "技术笔记/vim.md",
     "Readwise/Tweets/Tweets From Phuslu.md",
     "weread/Vim实用技巧/Vim实用技巧.md",
@@ -167,7 +169,6 @@
     "技术笔记/network.md",
     "技术笔记/图论.md",
     "技术笔记/git.md",
-    "Readwise/Articles/最牛B的Linux Shell命令.md",
     "weread/图解HTTP/图解HTTP.md",
     "Readwise/Articles/一个IP账号，为啥通过路由器就可供多人同时使用？.md",
     "attachment/Pasted image 20240321214604.png",
@@ -195,7 +196,6 @@
     "Readwise/Tweets/Tweets From 比特图灵.md",
     "quote/punchline.md",
     "quote/quote.md",
-    "interview/BQ.md",
     "Untitled",
     "interview",
     "Untitled.loom",
