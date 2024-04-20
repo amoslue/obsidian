@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 13710118,
-  "currentSyncStatusID": 13909159,
+  "lastSavedStatusID": 13909159,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "29696666",
@@ -124,7 +124,8 @@
     "Readwise/Articles/ChatGPT.md": "37657421",
     "Readwise/Articles/【网络技术】p2p技术原理浅析.md": "38282004",
     "Readwise/Articles/Crunch Time for Xi Jinping at China’s Annual Political Meeting.md": "38361659",
-    "Readwise/Articles/Xi Jinping’s Misguided Plan to Escape Economic Stagnation.md": "39346800"
+    "Readwise/Articles/Xi Jinping’s Misguided Plan to Escape Economic Stagnation.md": "39346800",
+    "Readwise/Articles/Reasons to Be Cheerful About Generation Z.md": "39771984"
   },
   "reimportShowConfirmation": true
 }
