@@ -11,12 +11,8 @@
             "id": "66f15f208ca8b036",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -158,8 +151,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3394c96555e7fc91",
+  "active": "c1574d6d7690bf34",
   "lastOpenFiles": [
+    "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
+    "Untitled.md",
+    "Readwise/Articles/Rust语言圣经(Rust Course).md",
     "Readwise/Articles/Reasons to Be Cheerful About Generation Z.md",
     "Readwise/Articles/最牛B的Linux Shell命令.md",
     "Readwise/Articles/Xi Jinping’s Misguided Plan to Escape Economic Stagnation.md",
@@ -193,9 +189,6 @@
     "Readwise/Articles/What four more years of Joe Biden would mean for America’s economy.md",
     "daily/2024-01-30.md",
     "daily/2024-01-26.md",
-    "Readwise/Articles/A New Diplomatic Struggle Is Unfolding Over Taiwan.md",
-    "Readwise/Tweets/Tweets From 比特图灵.md",
-    "quote/punchline.md",
     "Untitled",
     "interview",
     "Untitled.loom",
