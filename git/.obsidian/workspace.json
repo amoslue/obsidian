@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "destroy me",
+                "query": "变量",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "66f15f208ca8b036",
+  "active": "3394c96555e7fc91",
   "lastOpenFiles": [
     "Readwise/Articles/Reasons to Be Cheerful About Generation Z.md",
     "Readwise/Articles/最牛B的Linux Shell命令.md",
