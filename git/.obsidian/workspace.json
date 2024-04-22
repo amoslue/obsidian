@@ -11,8 +11,12 @@
             "id": "66f15f208ca8b036",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术笔记/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术笔记/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "技术笔记/git.md"
               }
             }
           },
@@ -135,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,7 +156,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c1574d6d7690bf34",
+  "active": "66f15f208ca8b036",
   "lastOpenFiles": [
     "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "Untitled.md",
