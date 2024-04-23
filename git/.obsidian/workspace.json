@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "814cec33ff260298",
+        "id": "67f2a25551634bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "66f15f208ca8b036",
+            "id": "8c095dcdd0ffd690",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术笔记/git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技术笔记/git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "66f15f208ca8b036",
+  "active": "8c095dcdd0ffd690",
   "lastOpenFiles": [
+    "技术笔记/git.md",
     "Readwise/Articles/‘The Human Being Is Too Imperfect a Thing.md",
     "Untitled.md",
     "Readwise/Articles/Rust语言圣经(Rust Course).md",
@@ -170,7 +163,6 @@
     "技术笔记/Linux.md",
     "技术笔记/network.md",
     "技术笔记/图论.md",
-    "技术笔记/git.md",
     "weread/图解HTTP/图解HTTP.md",
     "Readwise/Articles/一个IP账号，为啥通过路由器就可供多人同时使用？.md",
     "attachment/Pasted image 20240321214604.png",
